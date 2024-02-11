@@ -1496,3 +1496,1255 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.02.11-18.08.03:805][545]UATHelper: Packaging (Windows): LogTexture: Display: /Engine/EngineMaterials/BaseFlattenEmissiveMap_VT.BaseFlattenEmissiveMap_VT is marked for virtual streaming but virtual texture streaming is not available.
 [2024.02.11-18.08.03:805][545]UATHelper: Packaging (Windows): LogTexture: Display: /Engine/EngineMaterials/BaseFlattenDiffuseMap_VT.BaseFlattenDiffuseMap_VT is marked for virtual streaming but virtual texture streaming is not available.
 [2024.02.11-18.08.04:549][547]UATHelper: Packaging (Windows): LogTexture: Display: /Engine/EngineMaterials/BaseFlattenDiffuseMap_VT.BaseFlattenDiffuseMap_VT is marked for virtual streaming but virtual texture streaming is not available.
+[2024.02.11-18.08.09:154][561]UATHelper: Packaging (Windows): LogCook: Display: Cooked packages 552 Packages Remain 3126 Total 3678
+[2024.02.11-18.08.13:240][573]UATHelper: Packaging (Windows): LogCook: Display: Cooked packages 1282 Packages Remain 2396 Total 3678
+[2024.02.11-18.08.15:249][579]UATHelper: Packaging (Windows): LogCook: Display: Cooked packages 2608 Packages Remain 1070 Total 3678
+[2024.02.11-18.08.15:260][579]UATHelper: Packaging (Windows): LogUObjectGlobals: Warning: [AssetLog] C:\Users\rocco\Documents\GitHub\BO\BOProject\Content\AI\AI_Mass\Areas\Talk\BP_StaticCharacter_Talk.uasset: Failed to load '/Game/Characters/Mannequins/Animations/ABP_Quinn': Can't find file.
+[2024.02.11-18.08.15:260][579]UATHelper: Packaging (Windows): LogLinker: Warning: [AssetLog] C:\Users\rocco\Documents\GitHub\BO\BOProject\Content\AI\AI_Mass\Areas\Talk\BP_StaticCharacter_Talk.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Characters/Mannequins/Animations/ABP_Quinn'
+[2024.02.11-18.08.15:260][579]UATHelper: Packaging (Windows): LogUObjectGlobals: Warning: [AssetLog] C:\Users\rocco\Documents\GitHub\BO\BOProject\Content\AI\AI_Mass\Areas\Talk\BP_StaticCharacter_Talk.uasset: Failed to load '/Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple': Can't find file.
+[2024.02.11-18.08.15:336][579]UATHelper: Packaging (Windows): LogLinker: Warning: [AssetLog] C:\Users\rocco\Documents\GitHub\BO\BOProject\Content\AI\AI_Mass\Areas\Talk\BP_StaticCharacter_Talk.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple'
+[2024.02.11-18.08.15:454][580]PackagingResults: Warning: [AssetLog] C:\Users\rocco\Documents\GitHub\BO\BOProject\Content\AI\AI_Mass\Areas\Talk\BP_StaticCharacter_Talk.uasset: Failed to load '/Game/Characters/Mannequins/Animations/ABP_Quinn': Can't find file.
+[2024.02.11-18.08.15:454][580]PackagingResults: Warning: [AssetLog] C:\Users\rocco\Documents\GitHub\BO\BOProject\Content\AI\AI_Mass\Areas\Talk\BP_StaticCharacter_Talk.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Characters/Mannequins/Animations/ABP_Quinn'
+[2024.02.11-18.08.15:454][580]PackagingResults: Warning: [AssetLog] C:\Users\rocco\Documents\GitHub\BO\BOProject\Content\AI\AI_Mass\Areas\Talk\BP_StaticCharacter_Talk.uasset: Failed to load '/Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple': Can't find file.
+[2024.02.11-18.08.15:454][580]PackagingResults: Warning: [AssetLog] C:\Users\rocco\Documents\GitHub\BO\BOProject\Content\AI\AI_Mass\Areas\Talk\BP_StaticCharacter_Talk.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple'
+[2024.02.11-18.08.17:345][585]UATHelper: Packaging (Windows): LogCook: Display: Cooked packages 2707 Packages Remain 971 Total 3678
+[2024.02.11-18.08.17:466][585]UATHelper: Packaging (Windows): LogCook: Display: Cooked packages 2818 Packages Remain 860 Total 3678
+[2024.02.11-18.08.17:466][585]UATHelper: Packaging (Windows): LogUObjectGlobals: Warning: [AssetLog] C:\Users\rocco\Documents\GitHub\BO\BOProject\Content\Custom\Inventory\Items\TestItem.uasset: Failed to load '/Engine/BasicShapes/M_red': Can't find file.
+[2024.02.11-18.08.17:472][586]PackagingResults: Warning: [AssetLog] C:\Users\rocco\Documents\GitHub\BO\BOProject\Content\Custom\Inventory\Items\TestItem.uasset: Failed to load '/Engine/BasicShapes/M_red': Can't find file.
+[2024.02.11-18.08.19:342][591]UATHelper: Packaging (Windows): LogLinker: Warning: [AssetLog] C:\Users\rocco\Documents\GitHub\BO\BOProject\Content\Custom\Inventory\Items\TestItem.uasset: VerifyImport: Failed to load package for import object 'Package /Engine/BasicShapes/M_red'
+[2024.02.11-18.08.19:475][592]PackagingResults: Warning: [AssetLog] C:\Users\rocco\Documents\GitHub\BO\BOProject\Content\Custom\Inventory\Items\TestItem.uasset: VerifyImport: Failed to load package for import object 'Package /Engine/BasicShapes/M_red'
+[2024.02.11-18.08.20:530][595]UATHelper: Packaging (Windows): LogCook: Display: Cooked packages 2886 Packages Remain 793 Total 3679
+[2024.02.11-18.08.20:530][595]UATHelper: Packaging (Windows): LogCook: Display: Cooked packages 3679 Packages Remain 0 Total 3679
+[2024.02.11-18.08.20:530][595]UATHelper: Packaging (Windows): LogCook: Display: Cook Diagnostics: OpenFileHandles=3685, VirtualMemory=1814MiB
+[2024.02.11-18.08.22:422][600]UATHelper: Packaging (Windows): LogCook: Display: Finishing up...
+[2024.02.11-18.08.22:553][601]UATHelper: Packaging (Windows): LogAssetRegistryGenerator: Display: Saving asset registry v17.
+[2024.02.11-18.08.22:629][601]UATHelper: Packaging (Windows): LogAssetRegistryGenerator: Display: Generated development asset registry C:/Users/rocco/Documents/GitHub/BO/BOProject/Saved/Cooked/Windows/BOProject/Metadata/DevelopmentAssetRegistry.bin num assets 3738, size is 3159.93kb, XxHash64 = llu, waited on hash -0.00 seconds
+[2024.02.11-18.08.22:629][601]UATHelper: Packaging (Windows): LogAssetRegistryGenerator: Display: Generated asset registry num assets 3731, size is 1009.21kb
+[2024.02.11-18.08.22:876][602]UATHelper: Packaging (Windows): LogAssetRegistryGenerator: Display: Done saving asset registry. Took 0.2 seconds.
+[2024.02.11-18.08.22:876][602]UATHelper: Packaging (Windows): LogShaderLibrary: Display:
+[2024.02.11-18.08.22:886][602]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Shader Library 'BOProject' (PCD3D_SM6-PCD3D_SM6) Stats:
+[2024.02.11-18.08.22:886][602]UATHelper: Packaging (Windows): LogShaderLibrary: Display: =================
+[2024.02.11-18.08.22:886][602]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Assets: 95, Unique Shadermaps: 91 (95.79%)
+[2024.02.11-18.08.22:886][602]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Total Shaders: 2092, Unique Shaders: 1636 (78.20%)
+[2024.02.11-18.08.22:886][602]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Total Shader Size: 50.54mb, Unique Shaders Size: 41.59mb (82.29%)
+[2024.02.11-18.08.22:886][602]UATHelper: Packaging (Windows): LogShaderLibrary: Display: === Extended info:
+[2024.02.11-18.08.22:886][602]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Minimum number of shaders in shadermap: 2
+[2024.02.11-18.08.22:886][602]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Median number of shaders in shadermap: 13
+[2024.02.11-18.08.22:886][602]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Maximum number of shaders in shadermap: 495
+[2024.02.11-18.08.22:886][602]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Number of shadermaps referencing top 10 most shared shaders:
+[2024.02.11-18.08.22:886][602]UATHelper: Packaging (Windows): LogShaderLibrary: Display:     19, 17, 16, 16, 16, 16, 15, 12, 12, 10
+[2024.02.11-18.08.22:886][602]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Textual dump saved to '../../../../../../Users/rocco/Documents/GitHub/BO/BOProject/Saved/Shaders/PCD3D_SM6-PCD3D_SM6/ShaderDebug-BOProject-PCD3D_SM6-PCD3D_SM6/Dump.txt'
+[2024.02.11-18.08.22:919][602]UATHelper: Packaging (Windows): LogShaderLibrary: Display: =================
+[2024.02.11-18.08.22:919][602]UATHelper: Packaging (Windows): LogShaderLibrary: Display:
+[2024.02.11-18.08.22:919][602]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Shader Library 'BOProject' (PCD3D_SM5-PCD3D_SM5) Stats:
+[2024.02.11-18.08.22:919][602]UATHelper: Packaging (Windows): LogShaderLibrary: Display: =================
+[2024.02.11-18.08.22:919][602]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Assets: 95, Unique Shadermaps: 91 (95.79%)
+[2024.02.11-18.08.22:919][602]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Total Shaders: 1812, Unique Shaders: 1370 (75.61%)
+[2024.02.11-18.08.22:919][602]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Total Shader Size: 4.89mb, Unique Shaders Size: 4.11mb (83.99%)
+[2024.02.11-18.08.22:919][602]UATHelper: Packaging (Windows): LogShaderLibrary: Display: === Extended info:
+[2024.02.11-18.08.22:919][602]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Minimum number of shaders in shadermap: 2
+[2024.02.11-18.08.22:919][602]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Median number of shaders in shadermap: 13
+[2024.02.11-18.08.22:919][602]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Maximum number of shaders in shadermap: 363
+[2024.02.11-18.08.22:919][602]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Number of shadermaps referencing top 10 most shared shaders:
+[2024.02.11-18.08.22:919][602]UATHelper: Packaging (Windows): LogShaderLibrary: Display:     26, 19, 17, 16, 16, 16, 16, 13, 13, 12
+[2024.02.11-18.08.22:919][602]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Textual dump saved to '../../../../../../Users/rocco/Documents/GitHub/BO/BOProject/Saved/Shaders/PCD3D_SM5-PCD3D_SM5/ShaderDebug-BOProject-PCD3D_SM5-PCD3D_SM5/Dump.txt'
+[2024.02.11-18.08.22:919][602]UATHelper: Packaging (Windows): LogShaderLibrary: Display: =================
+[2024.02.11-18.08.23:015][602]UATHelper: Packaging (Windows): LogCook: Display: Finalize package store(s)...
+[2024.02.11-18.08.23:015][602]UATHelper: Packaging (Windows): LogCook: Display: Done finalizing package store(s)
+[2024.02.11-18.08.23:015][602]UATHelper: Packaging (Windows): LogCook: Display: Cook by the book total time in tick 17.986859s total time 24.574085
+[2024.02.11-18.08.23:015][602]UATHelper: Packaging (Windows): LogCook: Display: Peak Used virtual 1898 MiB Peak Used physical 1964 MiB
+[2024.02.11-18.08.23:015][602]UATHelper: Packaging (Windows): LogCook: Display: Packages Cooked: 3672, Packages Iteratively Skipped: 0, Packages Skipped by Platform: 7, Total Packages: 3679
+[2024.02.11-18.08.23:015][602]UATHelper: Packaging (Windows): LogCook: Display: Hierarchy Timer Information:
+[2024.02.11-18.08.23:015][602]UATHelper: Packaging (Windows): LogCook: Display:   Root: 0.000s (0)
+[2024.02.11-18.08.23:015][602]UATHelper: Packaging (Windows): LogCook: Display:     CleanSandbox: 0.066s (1)
+[2024.02.11-18.08.23:015][602]UATHelper: Packaging (Windows): LogCook: Display:     CollectFilesToCook: 0.390s (1)
+[2024.02.11-18.08.23:015][602]UATHelper: Packaging (Windows): LogCook: Display:       CookModificationDelegate: 0.000s (1)
+[2024.02.11-18.08.23:015][602]UATHelper: Packaging (Windows): LogCook: Display:     GenerateLongPackageName: 0.001s (1)
+[2024.02.11-18.08.23:015][602]UATHelper: Packaging (Windows): LogCook: Display:     TickMainCookLoop: 17.987s (1)
+[2024.02.11-18.08.23:015][602]UATHelper: Packaging (Windows): LogCook: Display:       PumpPollables: 0.001s (3)
+[2024.02.11-18.08.23:015][602]UATHelper: Packaging (Windows): LogCook: Display:       PumpRequests: 0.026s (116)
+[2024.02.11-18.08.23:015][602]UATHelper: Packaging (Windows): LogCook: Display:       LoadPackageForCooking: 8.689s (3679)
+[2024.02.11-18.08.23:015][602]UATHelper: Packaging (Windows): LogCook: Display:       SavingPackages: 6.659s (533)
+[2024.02.11-18.08.23:015][602]UATHelper: Packaging (Windows): LogCook: Display:         PollPendingCookedPlatformDatas: 0.415s (286660)
+[2024.02.11-18.08.23:015][602]UATHelper: Packaging (Windows): LogCook: Display:         PrepareSave: 0.369s (283111)
+[2024.02.11-18.08.23:015][602]UATHelper: Packaging (Windows): LogCook: Display:         PrecachePlatformDataForNextPackage: 0.654s (3678)
+[2024.02.11-18.08.23:015][602]UATHelper: Packaging (Windows): LogCook: Display:           PrepareSave: 0.653s (3925)
+[2024.02.11-18.08.23:015][602]UATHelper: Packaging (Windows): LogCook: Display:         SaveCookedPackage: 4.719s (3679)
+[2024.02.11-18.08.23:015][602]UATHelper: Packaging (Windows): LogCook: Display:           GEditorSavePackage: 2.844s (3679)
+[2024.02.11-18.08.23:015][602]UATHelper: Packaging (Windows): LogCook: Display:             VerifyCanCookPackage: 0.017s (3672)
+[2024.02.11-18.08.23:015][602]UATHelper: Packaging (Windows): LogCook: Display:           TargetDomainDependencies: 0.002s (3679)
+[2024.02.11-18.08.23:015][602]UATHelper: Packaging (Windows): LogCook: Display:         ClearAllCachedCookedPlatformData: 0.122s (3679)
+[2024.02.11-18.08.23:015][602]UATHelper: Packaging (Windows): LogCook: Display:       WaitForAsync: 2.301s (76685)
+[2024.02.11-18.08.23:015][602]UATHelper: Packaging (Windows): LogCook: Display:       PostLoadPackageFixup: 0.000s (3)
+[2024.02.11-18.08.23:015][602]UATHelper: Packaging (Windows): LogCook: Display:     SavingCurrentIniSettings: 0.018s (1)
+[2024.02.11-18.08.23:015][602]UATHelper: Packaging (Windows): LogCook: Display:       ProcessingAccessedStrings: 0.004s (1)
+[2024.02.11-18.08.23:015][602]UATHelper: Packaging (Windows): LogCook: Display:     SavingAssetRegistry: 0.561s (1)
+[2024.02.11-18.08.23:015][602]UATHelper: Packaging (Windows): LogCook: Display:       BuildChunkManifest: 0.046s (1)
+[2024.02.11-18.08.23:015][602]UATHelper: Packaging (Windows): LogCook: Display:       SaveManifests: 0.000s (1)
+[2024.02.11-18.08.23:015][602]UATHelper: Packaging (Windows): LogCook: Display:       SaveRealAssetRegistry: 0.210s (1)
+[2024.02.11-18.08.23:015][602]UATHelper: Packaging (Windows): LogCook: Display:       WriteCookerOpenOrder: 0.112s (1)
+[2024.02.11-18.08.23:015][602]UATHelper: Packaging (Windows): LogCook: Display:     FinalizePackageStore: 0.096s (1)
+[2024.02.11-18.08.23:015][602]UATHelper: Packaging (Windows): LogCook: Display: Misc Cook Stats
+[2024.02.11-18.08.23:015][602]UATHelper: Packaging (Windows): LogCook: Display: ===============
+[2024.02.11-18.08.23:015][602]UATHelper: Packaging (Windows): LogCook: Display: NiagaraShader.Misc
+[2024.02.11-18.08.23:015][602]UATHelper: Packaging (Windows): LogCook: Display:     ShadersCompiled=0
+[2024.02.11-18.08.23:015][602]UATHelper: Packaging (Windows): LogCook: Display: ShaderCompiler
+[2024.02.11-18.08.23:015][602]UATHelper: Packaging (Windows): LogCook: Display:     BlockingTimeSec=0.000106
+[2024.02.11-18.08.23:015][602]UATHelper: Packaging (Windows): LogCook: Display:     AsyncCompileTimeSec=0.000000
+[2024.02.11-18.08.23:015][602]UATHelper: Packaging (Windows): LogCook: Display:     GlobalBeginCompileShaderTimeSec=0.000000
+[2024.02.11-18.08.23:015][602]UATHelper: Packaging (Windows): LogCook: Display:     GlobalBeginCompileShaderCalls=0
+[2024.02.11-18.08.23:015][602]UATHelper: Packaging (Windows): LogCook: Display:     ProcessAsyncResultsTimeSec=0.000246
+[2024.02.11-18.08.23:015][602]UATHelper: Packaging (Windows): LogCook: Display: GlobalShader.Misc
+[2024.02.11-18.08.23:015][602]UATHelper: Packaging (Windows): LogCook: Display:     ShadersCompiled=0
+[2024.02.11-18.08.23:015][602]UATHelper: Packaging (Windows): LogCook: Display: Material
+[2024.02.11-18.08.23:015][602]UATHelper: Packaging (Windows): LogCook: Display:     MeshMaterialShadersCompiled=0
+[2024.02.11-18.08.23:015][602]UATHelper: Packaging (Windows): LogCook: Display:     FinishCacheShadersSec=0.136096
+[2024.02.11-18.08.23:015][602]UATHelper: Packaging (Windows): LogCook: Display:     MaterialShadersCompiled=0
+[2024.02.11-18.08.23:016][602]UATHelper: Packaging (Windows): LogCook: Display:     MaterialShaderMapSubmitCompileJobsTime=0.000000
+[2024.02.11-18.08.23:016][602]UATHelper: Packaging (Windows): LogCook: Display:     MaterialShaderMapSubmitCompileCalls=0
+[2024.02.11-18.08.23:016][602]UATHelper: Packaging (Windows): LogCook: Display:     MaterialInstanceUpdateCachedExpressionDataSec=0.003767
+[2024.02.11-18.08.23:016][602]UATHelper: Packaging (Windows): LogCook: Display:     MaterialInstancePostLoadSec=0.005356
+[2024.02.11-18.08.23:016][602]UATHelper: Packaging (Windows): LogCook: Display:     MaterialUpdateCachedExpressionDataSec=0.012265
+[2024.02.11-18.08.23:026][602]UATHelper: Packaging (Windows): LogCook: Display:     MaterialTranslateCalls=0
+[2024.02.11-18.08.23:026][602]UATHelper: Packaging (Windows): LogCook: Display:     MaterialTranslateTimeSec=0.000000
+[2024.02.11-18.08.23:026][602]UATHelper: Packaging (Windows): LogCook: Display: Package.Load
+[2024.02.11-18.08.23:026][602]UATHelper: Packaging (Windows): LogCook: Display:     NumInlineLoads=17
+[2024.02.11-18.08.23:026][602]UATHelper: Packaging (Windows): LogCook: Display:     NumPackagesLoaded=3728
+[2024.02.11-18.08.23:026][602]UATHelper: Packaging (Windows): LogCook: Display:     LoadPackageTimeSec=9.174909
+[2024.02.11-18.08.23:026][602]UATHelper: Packaging (Windows): LogCook: Display: Package.Save
+[2024.02.11-18.08.23:026][602]UATHelper: Packaging (Windows): LogCook: Display:     NumPackagesIterativelySkipped=0
+[2024.02.11-18.08.23:026][602]UATHelper: Packaging (Windows): LogCook: Display:     NumPackagesSaved=3679
+[2024.02.11-18.08.23:026][602]UATHelper: Packaging (Windows): LogCook: Display:     SavePackageTimeSec=2.527270
+[2024.02.11-18.08.23:026][602]UATHelper: Packaging (Windows): LogCook: Display:     TagPackageExportsPresaveTimeSec=0.000000
+[2024.02.11-18.08.23:026][602]UATHelper: Packaging (Windows): LogCook: Display:     TagPackageExportsTimeSec=0.000000
+[2024.02.11-18.08.23:026][602]UATHelper: Packaging (Windows): LogCook: Display:     FullyLoadLoadersTimeSec=0.000000
+[2024.02.11-18.08.23:026][602]UATHelper: Packaging (Windows): LogCook: Display:     ResetLoadersTimeSec=0.000000
+[2024.02.11-18.08.23:026][602]UATHelper: Packaging (Windows): LogCook: Display:     TagPackageExportsGetObjectsWithOuter=0.000000
+[2024.02.11-18.08.23:026][602]UATHelper: Packaging (Windows): LogCook: Display:     TagPackageExportsGetObjectsWithMarks=0.000000
+[2024.02.11-18.08.23:026][602]UATHelper: Packaging (Windows): LogCook: Display:     SerializeImportsTimeSec=0.000000
+[2024.02.11-18.08.23:026][602]UATHelper: Packaging (Windows): LogCook: Display:     SortExportsSeekfreeInnerTimeSec=0.000000
+[2024.02.11-18.08.23:026][602]UATHelper: Packaging (Windows): LogCook: Display:     SerializeExportsTimeSec=0.000000
+[2024.02.11-18.08.23:026][602]UATHelper: Packaging (Windows): LogCook: Display:     SerializeBulkDataTimeSec=0.014183
+[2024.02.11-18.08.23:026][602]UATHelper: Packaging (Windows): LogCook: Display:     AsyncWriteTimeSec=0.000000
+[2024.02.11-18.08.23:026][602]UATHelper: Packaging (Windows): LogCook: Display:     MBWritten=0.000000
+[2024.02.11-18.08.23:026][602]UATHelper: Packaging (Windows): LogCook: Display: CookOnTheFlyServer
+[2024.02.11-18.08.23:026][602]UATHelper: Packaging (Windows): LogCook: Display:     PeakRequestQueueSize=3678
+[2024.02.11-18.08.23:026][602]UATHelper: Packaging (Windows): LogCook: Display:     PeakLoadQueueSize=2878
+[2024.02.11-18.08.23:026][602]UATHelper: Packaging (Windows): LogCook: Display:     PeakSaveQueueSize=2040
+[2024.02.11-18.08.23:026][602]UATHelper: Packaging (Windows): LogCook: Display: Package.DifferentPackagesSizeMBPerAsset
+[2024.02.11-18.08.23:026][602]UATHelper: Packaging (Windows): LogCook: Display: Package.NumberOfDifferencesInPackagesPerAsset
+[2024.02.11-18.08.23:026][602]UATHelper: Packaging (Windows): LogCook: Display: Package.PackageDifferencesSizeMBPerAsset
+[2024.02.11-18.08.23:026][602]UATHelper: Packaging (Windows): LogCook: Display: Package.DiffTotal
+[2024.02.11-18.08.23:026][602]UATHelper: Packaging (Windows): LogCook: Display:     NumberOfDifferentPackages=0
+[2024.02.11-18.08.23:026][602]UATHelper: Packaging (Windows): LogCook: Display:     DifferentPackagesSizeMB=0.000000
+[2024.02.11-18.08.23:026][602]UATHelper: Packaging (Windows): LogCook: Display:     NumberOfDifferencesInPackages=0
+[2024.02.11-18.08.23:026][602]UATHelper: Packaging (Windows): LogCook: Display:     PackageDifferencesSizeMB=0.000000
+[2024.02.11-18.08.23:026][602]UATHelper: Packaging (Windows): LogCook: Display: UnversionedProperties
+[2024.02.11-18.08.23:026][602]UATHelper: Packaging (Windows): LogCook: Display:     SavedStructs=0
+[2024.02.11-18.08.23:026][602]UATHelper: Packaging (Windows): LogCook: Display:     SavedMB=0
+[2024.02.11-18.08.23:026][602]UATHelper: Packaging (Windows): LogCook: Display:     EquivalentTaggedMB=0
+[2024.02.11-18.08.23:026][602]UATHelper: Packaging (Windows): LogCook: Display:     CompressionRatio=-nan(ind)
+[2024.02.11-18.08.23:026][602]UATHelper: Packaging (Windows): LogCook: Display:     BitfieldWasteKB=0
+[2024.02.11-18.08.23:026][602]UATHelper: Packaging (Windows): LogCook: Display:
+[2024.02.11-18.08.23:026][602]UATHelper: Packaging (Windows): LogCook: Display: Cook Profile
+[2024.02.11-18.08.23:026][602]UATHelper: Packaging (Windows): LogCook: Display: ============
+[2024.02.11-18.08.23:026][602]UATHelper: Packaging (Windows): LogCook: Display:  0.CookWallTimeSec=33.008810
+[2024.02.11-18.08.23:026][602]UATHelper: Packaging (Windows): LogCook: Display:  0. 0.StartupWallTimeSec=8.339470
+[2024.02.11-18.08.23:026][602]UATHelper: Packaging (Windows): LogCook: Display:  0. 1.CookByTheBookTimeSec=0.000000
+[2024.02.11-18.08.23:027][602]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 0.StartCookByTheBookTimeSec=4.098852
+[2024.02.11-18.08.23:027][602]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 0. 0.BlockOnAssetRegistryTimeSec=0.435439
+[2024.02.11-18.08.23:027][602]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 0. 1.GameCookModificationDelegateTimeSec=0.000020
+[2024.02.11-18.08.23:027][602]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 1.TickCookOnTheSideTimeSec=0.000000
+[2024.02.11-18.08.23:027][602]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 1. 0.TickCookOnTheSideLoadPackagesTimeSec=8.691270
+[2024.02.11-18.08.23:027][602]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 1. 1.TickCookOnTheSideSaveCookedPackageTimeSec=4.718948
+[2024.02.11-18.08.23:027][602]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 1. 1. 0.TickCookOnTheSideResolveRedirectorsTimeSec=0.000000
+[2024.02.11-18.08.23:027][602]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 1. 2.TickCookOnTheSidePrepareSaveTimeSec=1.035810
+[2024.02.11-18.08.23:027][602]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 2.TickLoopGCTimeSec=0.000000
+[2024.02.11-18.08.23:027][602]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 3.TickLoopRecompileShaderRequestsTimeSec=0.000000
+[2024.02.11-18.08.23:027][602]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 4.TickLoopShaderProcessAsyncResultsTimeSec=0.000005
+[2024.02.11-18.08.23:027][602]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 5.TickLoopProcessDeferredCommandsTimeSec=0.000003
+[2024.02.11-18.08.23:027][602]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 6.TickLoopTickCommandletStatsTimeSec=0.000001
+[2024.02.11-18.08.23:027][602]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 7.TickLoopFlushRenderingCommandsTimeSec=0.000988
+[2024.02.11-18.08.23:027][602]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 8.TargetPlatforms=Windows
+[2024.02.11-18.08.23:027][602]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 9.CookProject=BOProject
+[2024.02.11-18.08.23:027][602]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 10.CookCultures=
+[2024.02.11-18.08.23:027][602]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 11.IsCookAll=false
+[2024.02.11-18.08.23:027][602]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 12.IsCookOnTheFly=false
+[2024.02.11-18.08.23:027][602]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 13.IsIterativeCook=false
+[2024.02.11-18.08.23:027][602]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 14.IsUnversioned=true
+[2024.02.11-18.08.23:027][602]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 15.CookLabel=
+[2024.02.11-18.08.23:027][602]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 16.IsFastCook=false
+[2024.02.11-18.08.23:027][602]UATHelper: Packaging (Windows): LogCook: Display:
+[2024.02.11-18.08.23:027][602]UATHelper: Packaging (Windows): LogCook: Display: DDC Summary Stats
+[2024.02.11-18.08.23:027][602]UATHelper: Packaging (Windows): LogCook: Display: =================
+[2024.02.11-18.08.23:027][602]UATHelper: Packaging (Windows): LogCook: Display: BackEnd         =InstalledDerivedDataBackendGraph
+[2024.02.11-18.08.23:027][602]UATHelper: Packaging (Windows): LogCook: Display: HasLocalCache   =      true
+[2024.02.11-18.08.23:027][602]UATHelper: Packaging (Windows): LogCook: Display: HasSharedCache  =     false
+[2024.02.11-18.08.23:027][602]UATHelper: Packaging (Windows): LogCook: Display: HasCloudCache   =     false
+[2024.02.11-18.08.23:027][602]UATHelper: Packaging (Windows): LogCook: Display: HasZenCache     =     false
+[2024.02.11-18.08.23:027][602]UATHelper: Packaging (Windows): LogCook: Display: TotalGetHits    =     11044
+[2024.02.11-18.08.23:037][602]UATHelper: Packaging (Windows): LogCook: Display: TotalGetMisses  =         0
+[2024.02.11-18.08.23:037][602]UATHelper: Packaging (Windows): LogCook: Display: TotalGets       =     11044
+[2024.02.11-18.08.23:037][602]UATHelper: Packaging (Windows): LogCook: Display: TotalGetHitPct  =  1.000000
+[2024.02.11-18.08.23:037][602]UATHelper: Packaging (Windows): LogCook: Display: GetMissPct      =  0.000000
+[2024.02.11-18.08.23:037][602]UATHelper: Packaging (Windows): LogCook: Display: TotalPutHits    =         0
+[2024.02.11-18.08.23:037][602]UATHelper: Packaging (Windows): LogCook: Display: TotalPutMisses  =         0
+[2024.02.11-18.08.23:037][602]UATHelper: Packaging (Windows): LogCook: Display: TotalPuts       =         0
+[2024.02.11-18.08.23:037][602]UATHelper: Packaging (Windows): LogCook: Display: TotalPutHitPct  =  0.000000
+[2024.02.11-18.08.23:037][602]UATHelper: Packaging (Windows): LogCook: Display: PutMissPct      =  0.000000
+[2024.02.11-18.08.23:037][602]UATHelper: Packaging (Windows): LogCook: Display: LocalGetHits    =      3305
+[2024.02.11-18.08.23:037][602]UATHelper: Packaging (Windows): LogCook: Display: LocalGetTotal   =      3305
+[2024.02.11-18.08.23:037][602]UATHelper: Packaging (Windows): LogCook: Display: LocalGetHitPct  =  1.000000
+[2024.02.11-18.08.23:037][602]UATHelper: Packaging (Windows): LogCook: Display: SharedGetHits   =         0
+[2024.02.11-18.08.23:037][602]UATHelper: Packaging (Windows): LogCook: Display: SharedGetTotal  =         0
+[2024.02.11-18.08.23:037][602]UATHelper: Packaging (Windows): LogCook: Display: SharedGetHitPct =  0.000000
+[2024.02.11-18.08.23:037][602]UATHelper: Packaging (Windows): LogCook: Display: ZenLocalGetHits =         0
+[2024.02.11-18.08.23:037][602]UATHelper: Packaging (Windows): LogCook: Display: ZenLocalGetTotal=         0
+[2024.02.11-18.08.23:037][602]UATHelper: Packaging (Windows): LogCook: Display: ZenLocalGetHitPct=  0.000000
+[2024.02.11-18.08.23:037][602]UATHelper: Packaging (Windows): LogCook: Display: ZenRemoteGetHits=         0
+[2024.02.11-18.08.23:037][602]UATHelper: Packaging (Windows): LogCook: Display: ZenRemoteGetTotal=         0
+[2024.02.11-18.08.23:037][602]UATHelper: Packaging (Windows): LogCook: Display: ZenRemoteGetHitPct=  0.000000
+[2024.02.11-18.08.23:037][602]UATHelper: Packaging (Windows): LogCook: Display: CloudGetHits    =         0
+[2024.02.11-18.08.23:037][602]UATHelper: Packaging (Windows): LogCook: Display: CloudGetTotal   =         0
+[2024.02.11-18.08.23:037][602]UATHelper: Packaging (Windows): LogCook: Display: CloudGetHitPct  =  0.000000
+[2024.02.11-18.08.23:037][602]UATHelper: Packaging (Windows): LogCook: Display: LocalLatency    =  0.057186
+[2024.02.11-18.08.23:037][602]UATHelper: Packaging (Windows): LogCook: Display: LocalReadSpeed  =  7.769839
+[2024.02.11-18.08.23:037][602]UATHelper: Packaging (Windows): LogCook: Display: LocalWriteSpeed =  0.000000
+[2024.02.11-18.08.23:037][602]UATHelper: Packaging (Windows): LogCook: Display: SharedLatency   =  0.000000
+[2024.02.11-18.08.23:037][602]UATHelper: Packaging (Windows): LogCook: Display: SharedReadSpeed =  0.000000
+[2024.02.11-18.08.23:037][602]UATHelper: Packaging (Windows): LogCook: Display: SharedWriteSpeed=  0.000000
+[2024.02.11-18.08.23:037][602]UATHelper: Packaging (Windows): LogCook: Display: CloudLatency    =  0.000000
+[2024.02.11-18.08.23:037][602]UATHelper: Packaging (Windows): LogCook: Display: CloudReadSpeed  =  0.000000
+[2024.02.11-18.08.23:037][602]UATHelper: Packaging (Windows): LogCook: Display: CloudWriteSpeed =  0.000000
+[2024.02.11-18.08.23:037][602]UATHelper: Packaging (Windows): LogCook: Display:
+[2024.02.11-18.08.23:037][602]UATHelper: Packaging (Windows): LogCook: Display: DDC Resource Stats
+[2024.02.11-18.08.23:037][602]UATHelper: Packaging (Windows): LogCook: Display: =======================================================================================================
+[2024.02.11-18.08.23:037][602]UATHelper: Packaging (Windows): LogCook: Display: Asset Type                          Total Time (Sec)  GameThread Time (Sec)  Assets Built  MB Processed
+[2024.02.11-18.08.23:037][602]UATHelper: Packaging (Windows): LogCook: Display: ----------------------------------  ----------------  ---------------------  ------------  ------------
+[2024.02.11-18.08.23:037][602]UATHelper: Packaging (Windows): LogCook: Display: BulkDataList                                    9.12                   0.00             0          1.13
+[2024.02.11-18.08.23:037][602]UATHelper: Packaging (Windows): LogCook: Display: Texture                                         0.26                   0.00             0         59.00
+[2024.02.11-18.08.23:037][602]UATHelper: Packaging (Windows): LogCook: Display: GlobalShader                                    0.06                   0.09             0         62.05
+[2024.02.11-18.08.23:037][602]UATHelper: Packaging (Windows): LogCook: Display: MaterialShader                                  0.06                   0.13             0         44.07
+[2024.02.11-18.08.23:037][602]UATHelper: Packaging (Windows): LogCook: Display: SkeletalMesh                                    0.03                   0.00             0         33.52
+[2024.02.11-18.08.23:037][602]UATHelper: Packaging (Windows): LogCook: Display: AnimationSequence                               0.01                   0.00             0          1.26
+[2024.02.11-18.08.23:037][602]UATHelper: Packaging (Windows): LogCook: Display: Audio                                           0.01                   0.00             0          0.18
+[2024.02.11-18.08.23:037][602]UATHelper: Packaging (Windows): LogCook: Display: StaticMesh                                      0.01                   0.01             0          1.49
+[2024.02.11-18.08.23:037][602]UATHelper: Packaging (Windows): LogCook: Display: DistanceField                                   0.01                   0.00             0          0.73
+[2024.02.11-18.08.23:037][602]UATHelper: Packaging (Windows): LogCook: Display: NavCollision                                    0.00                   0.00             0          0.04
+[2024.02.11-18.08.23:037][602]UATHelper: Packaging (Windows): LogCook: Display: CardRepresentation                              0.00                   0.00             0          0.02
+[2024.02.11-18.08.23:037][602]UATHelper: Packaging (Windows): LogCook: Display: BodySetup                                       0.00                   0.00             0          0.62
+[2024.02.11-18.08.23:037][602]UATHelper: Packaging (Windows): LogCook: Display: BulkDataPayloadId                               0.00                   0.00             0          0.00
+[2024.02.11-18.08.23:037][602]UATHelper: Packaging (Windows): LogPackageBuildDependencyTracker: Display: Package Accesses (362 referencing packages with a total of 3205 unique accesses)
+[2024.02.11-18.08.23:037][602]UATHelper: Packaging (Windows): LogCook: Display: Done!
+[2024.02.11-18.08.23:037][602]UATHelper: Packaging (Windows): LogSavePackage: Display: Took 0.002096s to verify the EDL loading graph.
+[2024.02.11-18.08.23:037][602]UATHelper: Packaging (Windows): LogCook: Display: Misc Cook Stats
+[2024.02.11-18.08.23:037][602]UATHelper: Packaging (Windows): LogCook: Display: ===============
+[2024.02.11-18.08.23:037][602]UATHelper: Packaging (Windows): LogCook: Display: NiagaraShader.Misc
+[2024.02.11-18.08.23:037][602]UATHelper: Packaging (Windows): LogCook: Display:     ShadersCompiled=0
+[2024.02.11-18.08.23:037][602]UATHelper: Packaging (Windows): LogCook: Display: ShaderCompiler
+[2024.02.11-18.08.23:037][602]UATHelper: Packaging (Windows): LogCook: Display:     BlockingTimeSec=0.000106
+[2024.02.11-18.08.23:037][602]UATHelper: Packaging (Windows): LogCook: Display:     AsyncCompileTimeSec=0.000000
+[2024.02.11-18.08.23:037][602]UATHelper: Packaging (Windows): LogCook: Display:     GlobalBeginCompileShaderTimeSec=0.000000
+[2024.02.11-18.08.23:048][602]UATHelper: Packaging (Windows): LogCook: Display:     GlobalBeginCompileShaderCalls=0
+[2024.02.11-18.08.23:048][602]UATHelper: Packaging (Windows): LogCook: Display:     ProcessAsyncResultsTimeSec=0.000246
+[2024.02.11-18.08.23:048][602]UATHelper: Packaging (Windows): LogCook: Display: GlobalShader.Misc
+[2024.02.11-18.08.23:048][602]UATHelper: Packaging (Windows): LogCook: Display:     ShadersCompiled=0
+[2024.02.11-18.08.23:048][602]UATHelper: Packaging (Windows): LogCook: Display: Material
+[2024.02.11-18.08.23:048][602]UATHelper: Packaging (Windows): LogCook: Display:     MeshMaterialShadersCompiled=0
+[2024.02.11-18.08.23:048][602]UATHelper: Packaging (Windows): LogCook: Display:     FinishCacheShadersSec=0.136096
+[2024.02.11-18.08.23:048][602]UATHelper: Packaging (Windows): LogCook: Display:     MaterialShadersCompiled=0
+[2024.02.11-18.08.23:048][602]UATHelper: Packaging (Windows): LogCook: Display:     MaterialShaderMapSubmitCompileJobsTime=0.000000
+[2024.02.11-18.08.23:049][602]UATHelper: Packaging (Windows): LogCook: Display:     MaterialShaderMapSubmitCompileCalls=0
+[2024.02.11-18.08.23:049][602]UATHelper: Packaging (Windows): LogCook: Display:     MaterialInstanceUpdateCachedExpressionDataSec=0.003767
+[2024.02.11-18.08.23:049][602]UATHelper: Packaging (Windows): LogCook: Display:     MaterialInstancePostLoadSec=0.005356
+[2024.02.11-18.08.23:049][602]UATHelper: Packaging (Windows): LogCook: Display:     MaterialUpdateCachedExpressionDataSec=0.012265
+[2024.02.11-18.08.23:049][602]UATHelper: Packaging (Windows): LogCook: Display:     MaterialTranslateCalls=0
+[2024.02.11-18.08.23:049][602]UATHelper: Packaging (Windows): LogCook: Display:     MaterialTranslateTimeSec=0.000000
+[2024.02.11-18.08.23:049][602]UATHelper: Packaging (Windows): LogCook: Display: Package.Load
+[2024.02.11-18.08.23:049][602]UATHelper: Packaging (Windows): LogCook: Display:     NumInlineLoads=17
+[2024.02.11-18.08.23:049][602]UATHelper: Packaging (Windows): LogCook: Display:     NumPackagesLoaded=3728
+[2024.02.11-18.08.23:049][602]UATHelper: Packaging (Windows): LogCook: Display:     LoadPackageTimeSec=9.174909
+[2024.02.11-18.08.23:049][602]UATHelper: Packaging (Windows): LogCook: Display: Package.Save
+[2024.02.11-18.08.23:049][602]UATHelper: Packaging (Windows): LogCook: Display:     NumPackagesIterativelySkipped=0
+[2024.02.11-18.08.23:049][602]UATHelper: Packaging (Windows): LogCook: Display:     NumPackagesSaved=3679
+[2024.02.11-18.08.23:049][602]UATHelper: Packaging (Windows): LogCook: Display:     SavePackageTimeSec=2.527270
+[2024.02.11-18.08.23:049][602]UATHelper: Packaging (Windows): LogCook: Display:     TagPackageExportsPresaveTimeSec=0.000000
+[2024.02.11-18.08.23:049][602]UATHelper: Packaging (Windows): LogCook: Display:     TagPackageExportsTimeSec=0.000000
+[2024.02.11-18.08.23:049][602]UATHelper: Packaging (Windows): LogCook: Display:     FullyLoadLoadersTimeSec=0.000000
+[2024.02.11-18.08.23:049][602]UATHelper: Packaging (Windows): LogCook: Display:     ResetLoadersTimeSec=0.000000
+[2024.02.11-18.08.23:050][602]UATHelper: Packaging (Windows): LogCook: Display:     TagPackageExportsGetObjectsWithOuter=0.000000
+[2024.02.11-18.08.23:050][602]UATHelper: Packaging (Windows): LogCook: Display:     TagPackageExportsGetObjectsWithMarks=0.000000
+[2024.02.11-18.08.23:050][602]UATHelper: Packaging (Windows): LogCook: Display:     SerializeImportsTimeSec=0.000000
+[2024.02.11-18.08.23:050][602]UATHelper: Packaging (Windows): LogCook: Display:     SortExportsSeekfreeInnerTimeSec=0.000000
+[2024.02.11-18.08.23:050][602]UATHelper: Packaging (Windows): LogCook: Display:     SerializeExportsTimeSec=0.000000
+[2024.02.11-18.08.23:050][602]UATHelper: Packaging (Windows): LogCook: Display:     SerializeBulkDataTimeSec=0.014183
+[2024.02.11-18.08.23:050][602]UATHelper: Packaging (Windows): LogCook: Display:     AsyncWriteTimeSec=0.000000
+[2024.02.11-18.08.23:050][602]UATHelper: Packaging (Windows): LogCook: Display:     MBWritten=0.000000
+[2024.02.11-18.08.23:050][602]UATHelper: Packaging (Windows): LogCook: Display: CookOnTheFlyServer
+[2024.02.11-18.08.23:050][602]UATHelper: Packaging (Windows): LogCook: Display:     PeakRequestQueueSize=3678
+[2024.02.11-18.08.23:050][602]UATHelper: Packaging (Windows): LogCook: Display:     PeakLoadQueueSize=2878
+[2024.02.11-18.08.23:050][602]UATHelper: Packaging (Windows): LogCook: Display:     PeakSaveQueueSize=2040
+[2024.02.11-18.08.23:050][602]UATHelper: Packaging (Windows): LogCook: Display: Package.DifferentPackagesSizeMBPerAsset
+[2024.02.11-18.08.23:050][602]UATHelper: Packaging (Windows): LogCook: Display: Package.NumberOfDifferencesInPackagesPerAsset
+[2024.02.11-18.08.23:050][602]UATHelper: Packaging (Windows): LogCook: Display: Package.PackageDifferencesSizeMBPerAsset
+[2024.02.11-18.08.23:050][602]UATHelper: Packaging (Windows): LogCook: Display: Package.DiffTotal
+[2024.02.11-18.08.23:050][602]UATHelper: Packaging (Windows): LogCook: Display:     NumberOfDifferentPackages=0
+[2024.02.11-18.08.23:050][602]UATHelper: Packaging (Windows): LogCook: Display:     DifferentPackagesSizeMB=0.000000
+[2024.02.11-18.08.23:050][602]UATHelper: Packaging (Windows): LogCook: Display:     NumberOfDifferencesInPackages=0
+[2024.02.11-18.08.23:050][602]UATHelper: Packaging (Windows): LogCook: Display:     PackageDifferencesSizeMB=0.000000
+[2024.02.11-18.08.23:051][602]UATHelper: Packaging (Windows): LogCook: Display: UnversionedProperties
+[2024.02.11-18.08.23:051][602]UATHelper: Packaging (Windows): LogCook: Display:     SavedStructs=0
+[2024.02.11-18.08.23:051][602]UATHelper: Packaging (Windows): LogCook: Display:     SavedMB=0
+[2024.02.11-18.08.23:051][602]UATHelper: Packaging (Windows): LogCook: Display:     EquivalentTaggedMB=0
+[2024.02.11-18.08.23:051][602]UATHelper: Packaging (Windows): LogCook: Display:     CompressionRatio=-nan(ind)
+[2024.02.11-18.08.23:051][602]UATHelper: Packaging (Windows): LogCook: Display:     BitfieldWasteKB=0
+[2024.02.11-18.08.23:051][602]UATHelper: Packaging (Windows): LogCook: Display:
+[2024.02.11-18.08.23:051][602]UATHelper: Packaging (Windows): LogCook: Display: Cook Profile
+[2024.02.11-18.08.23:167][603]UATHelper: Packaging (Windows): LogCook: Display: ============
+[2024.02.11-18.08.23:167][603]UATHelper: Packaging (Windows): LogCook: Display:  0.CookWallTimeSec=33.020401
+[2024.02.11-18.08.23:167][603]UATHelper: Packaging (Windows): LogCook: Display:  0. 0.StartupWallTimeSec=8.339470
+[2024.02.11-18.08.23:167][603]UATHelper: Packaging (Windows): LogCook: Display:  0. 1.CookByTheBookTimeSec=24.672500
+[2024.02.11-18.08.23:167][603]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 0.StartCookByTheBookTimeSec=4.098852
+[2024.02.11-18.08.23:167][603]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 0. 0.BlockOnAssetRegistryTimeSec=0.435439
+[2024.02.11-18.08.23:209][603]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 0. 1.GameCookModificationDelegateTimeSec=0.000020
+[2024.02.11-18.08.23:209][603]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 1.TickCookOnTheSideTimeSec=20.479734
+[2024.02.11-18.08.23:209][603]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 1. 0.TickCookOnTheSideLoadPackagesTimeSec=8.691270
+[2024.02.11-18.08.23:209][603]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 1. 1.TickCookOnTheSideSaveCookedPackageTimeSec=4.718948
+[2024.02.11-18.08.23:209][603]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 1. 1. 0.TickCookOnTheSideResolveRedirectorsTimeSec=0.000000
+[2024.02.11-18.08.23:209][603]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 1. 2.TickCookOnTheSidePrepareSaveTimeSec=1.035810
+[2024.02.11-18.08.23:209][603]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 2.TickLoopGCTimeSec=0.000000
+[2024.02.11-18.08.23:209][603]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 3.TickLoopRecompileShaderRequestsTimeSec=0.000000
+[2024.02.11-18.08.23:209][603]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 4.TickLoopShaderProcessAsyncResultsTimeSec=0.000005
+[2024.02.11-18.08.23:209][603]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 5.TickLoopProcessDeferredCommandsTimeSec=0.000003
+[2024.02.11-18.08.23:209][603]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 6.TickLoopTickCommandletStatsTimeSec=0.000001
+[2024.02.11-18.08.23:209][603]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 7.TickLoopFlushRenderingCommandsTimeSec=0.000988
+[2024.02.11-18.08.23:209][603]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 8.TargetPlatforms=Windows
+[2024.02.11-18.08.23:209][603]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 9.CookProject=BOProject
+[2024.02.11-18.08.23:209][603]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 10.CookCultures=
+[2024.02.11-18.08.23:209][603]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 11.IsCookAll=false
+[2024.02.11-18.08.23:209][603]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 12.IsCookOnTheFly=false
+[2024.02.11-18.08.23:209][603]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 13.IsIterativeCook=false
+[2024.02.11-18.08.23:210][603]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 14.IsUnversioned=true
+[2024.02.11-18.08.23:210][603]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 15.CookLabel=
+[2024.02.11-18.08.23:210][603]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 16.IsFastCook=false
+[2024.02.11-18.08.23:210][603]UATHelper: Packaging (Windows): LogCook: Display:
+[2024.02.11-18.08.23:210][603]UATHelper: Packaging (Windows): LogCook: Display: DDC Summary Stats
+[2024.02.11-18.08.23:210][603]UATHelper: Packaging (Windows): LogCook: Display: =================
+[2024.02.11-18.08.23:210][603]UATHelper: Packaging (Windows): LogCook: Display: BackEnd         =InstalledDerivedDataBackendGraph
+[2024.02.11-18.08.23:210][603]UATHelper: Packaging (Windows): LogCook: Display: HasLocalCache   =      true
+[2024.02.11-18.08.23:210][603]UATHelper: Packaging (Windows): LogCook: Display: HasSharedCache  =     false
+[2024.02.11-18.08.23:210][603]UATHelper: Packaging (Windows): LogCook: Display: HasCloudCache   =     false
+[2024.02.11-18.08.23:210][603]UATHelper: Packaging (Windows): LogCook: Display: HasZenCache     =     false
+[2024.02.11-18.08.23:210][603]UATHelper: Packaging (Windows): LogCook: Display: TotalGetHits    =     11044
+[2024.02.11-18.08.23:210][603]UATHelper: Packaging (Windows): LogCook: Display: TotalGetMisses  =         0
+[2024.02.11-18.08.23:210][603]UATHelper: Packaging (Windows): LogCook: Display: TotalGets       =     11044
+[2024.02.11-18.08.23:210][603]UATHelper: Packaging (Windows): LogCook: Display: TotalGetHitPct  =  1.000000
+[2024.02.11-18.08.23:210][603]UATHelper: Packaging (Windows): LogCook: Display: GetMissPct      =  0.000000
+[2024.02.11-18.08.23:210][603]UATHelper: Packaging (Windows): LogCook: Display: TotalPutHits    =         0
+[2024.02.11-18.08.23:210][603]UATHelper: Packaging (Windows): LogCook: Display: TotalPutMisses  =         0
+[2024.02.11-18.08.23:210][603]UATHelper: Packaging (Windows): LogCook: Display: TotalPuts       =         0
+[2024.02.11-18.08.23:210][603]UATHelper: Packaging (Windows): LogCook: Display: TotalPutHitPct  =  0.000000
+[2024.02.11-18.08.23:210][603]UATHelper: Packaging (Windows): LogCook: Display: PutMissPct      =  0.000000
+[2024.02.11-18.08.23:210][603]UATHelper: Packaging (Windows): LogCook: Display: LocalGetHits    =      3305
+[2024.02.11-18.08.23:210][603]UATHelper: Packaging (Windows): LogCook: Display: LocalGetTotal   =      3305
+[2024.02.11-18.08.23:210][603]UATHelper: Packaging (Windows): LogCook: Display: LocalGetHitPct  =  1.000000
+[2024.02.11-18.08.23:210][603]UATHelper: Packaging (Windows): LogCook: Display: SharedGetHits   =         0
+[2024.02.11-18.08.23:210][603]UATHelper: Packaging (Windows): LogCook: Display: SharedGetTotal  =         0
+[2024.02.11-18.08.23:210][603]UATHelper: Packaging (Windows): LogCook: Display: SharedGetHitPct =  0.000000
+[2024.02.11-18.08.23:210][603]UATHelper: Packaging (Windows): LogCook: Display: ZenLocalGetHits =         0
+[2024.02.11-18.08.23:210][603]UATHelper: Packaging (Windows): LogCook: Display: ZenLocalGetTotal=         0
+[2024.02.11-18.08.23:210][603]UATHelper: Packaging (Windows): LogCook: Display: ZenLocalGetHitPct=  0.000000
+[2024.02.11-18.08.23:210][603]UATHelper: Packaging (Windows): LogCook: Display: ZenRemoteGetHits=         0
+[2024.02.11-18.08.23:210][603]UATHelper: Packaging (Windows): LogCook: Display: ZenRemoteGetTotal=         0
+[2024.02.11-18.08.23:210][603]UATHelper: Packaging (Windows): LogCook: Display: ZenRemoteGetHitPct=  0.000000
+[2024.02.11-18.08.23:210][603]UATHelper: Packaging (Windows): LogCook: Display: CloudGetHits    =         0
+[2024.02.11-18.08.23:210][603]UATHelper: Packaging (Windows): LogCook: Display: CloudGetTotal   =         0
+[2024.02.11-18.08.23:210][603]UATHelper: Packaging (Windows): LogCook: Display: CloudGetHitPct  =  0.000000
+[2024.02.11-18.08.23:210][603]UATHelper: Packaging (Windows): LogCook: Display: LocalLatency    =  0.057186
+[2024.02.11-18.08.23:210][603]UATHelper: Packaging (Windows): LogCook: Display: LocalReadSpeed  =  7.769839
+[2024.02.11-18.08.23:210][603]UATHelper: Packaging (Windows): LogCook: Display: LocalWriteSpeed =  0.000000
+[2024.02.11-18.08.23:210][603]UATHelper: Packaging (Windows): LogCook: Display: SharedLatency   =  0.000000
+[2024.02.11-18.08.23:210][603]UATHelper: Packaging (Windows): LogCook: Display: SharedReadSpeed =  0.000000
+[2024.02.11-18.08.23:210][603]UATHelper: Packaging (Windows): LogCook: Display: SharedWriteSpeed=  0.000000
+[2024.02.11-18.08.23:210][603]UATHelper: Packaging (Windows): LogCook: Display: CloudLatency    =  0.000000
+[2024.02.11-18.08.23:210][603]UATHelper: Packaging (Windows): LogCook: Display: CloudReadSpeed  =  0.000000
+[2024.02.11-18.08.23:210][603]UATHelper: Packaging (Windows): LogCook: Display: CloudWriteSpeed =  0.000000
+[2024.02.11-18.08.23:210][603]UATHelper: Packaging (Windows): LogCook: Display:
+[2024.02.11-18.08.23:210][603]UATHelper: Packaging (Windows): LogCook: Display: DDC Resource Stats
+[2024.02.11-18.08.23:210][603]UATHelper: Packaging (Windows): LogCook: Display: =======================================================================================================
+[2024.02.11-18.08.23:210][603]UATHelper: Packaging (Windows): LogCook: Display: Asset Type                          Total Time (Sec)  GameThread Time (Sec)  Assets Built  MB Processed
+[2024.02.11-18.08.23:210][603]UATHelper: Packaging (Windows): LogCook: Display: ----------------------------------  ----------------  ---------------------  ------------  ------------
+[2024.02.11-18.08.23:210][603]UATHelper: Packaging (Windows): LogCook: Display: BulkDataList                                    9.12                   0.00             0          1.13
+[2024.02.11-18.08.23:210][603]UATHelper: Packaging (Windows): LogCook: Display: Texture                                         0.26                   0.00             0         59.00
+[2024.02.11-18.08.23:210][603]UATHelper: Packaging (Windows): LogCook: Display: GlobalShader                                    0.06                   0.09             0         62.05
+[2024.02.11-18.08.23:210][603]UATHelper: Packaging (Windows): LogCook: Display: MaterialShader                                  0.06                   0.13             0         44.07
+[2024.02.11-18.08.23:212][603]UATHelper: Packaging (Windows): LogCook: Display: SkeletalMesh                                    0.03                   0.00             0         33.52
+[2024.02.11-18.08.23:212][603]UATHelper: Packaging (Windows): LogCook: Display: AnimationSequence                               0.01                   0.00             0          1.26
+[2024.02.11-18.08.23:212][603]UATHelper: Packaging (Windows): LogCook: Display: Audio                                           0.01                   0.00             0          0.18
+[2024.02.11-18.08.23:212][603]UATHelper: Packaging (Windows): LogCook: Display: StaticMesh                                      0.01                   0.01             0          1.49
+[2024.02.11-18.08.23:212][603]UATHelper: Packaging (Windows): LogCook: Display: DistanceField                                   0.01                   0.00             0          0.73
+[2024.02.11-18.08.23:212][603]UATHelper: Packaging (Windows): LogCook: Display: NavCollision                                    0.00                   0.00             0          0.04
+[2024.02.11-18.08.23:212][603]UATHelper: Packaging (Windows): LogCook: Display: CardRepresentation                              0.00                   0.00             0          0.02
+[2024.02.11-18.08.23:212][603]UATHelper: Packaging (Windows): LogCook: Display: BodySetup                                       0.00                   0.00             0          0.62
+[2024.02.11-18.08.23:212][603]UATHelper: Packaging (Windows): LogCook: Display: BulkDataPayloadId                               0.00                   0.00             0          0.00
+[2024.02.11-18.08.23:212][603]UATHelper: Packaging (Windows): LogPackageBuildDependencyTracker: Display: Package Accesses (362 referencing packages with a total of 3205 unique accesses)
+[2024.02.11-18.08.23:212][603]UATHelper: Packaging (Windows): LogInit: Display:
+[2024.02.11-18.08.23:212][603]UATHelper: Packaging (Windows): LogInit: Display: Warning/Error Summary (Unique only)
+[2024.02.11-18.08.23:212][603]UATHelper: Packaging (Windows): LogInit: Display: -----------------------------------
+[2024.02.11-18.08.23:212][603]UATHelper: Packaging (Windows): LogInit: Display: LogAssetEditorSubsystem: Warning: Something went wrong while loading recent assets! Num Recent Assets  = 26, Num Recent Asset Editors = 25
+[2024.02.11-18.08.23:212][603]UATHelper: Packaging (Windows): LogInit: Display: LogPackageUtilities: Warning: Engine.ini:[Core.System]:Paths entry '../../../Engine/Plugins/Experimental/UVEditor/Content' is not mounted. Skipping it.
+[2024.02.11-18.08.23:212][603]UATHelper: Packaging (Windows): LogInit: Display: LogPackageUtilities: Warning: Engine.ini:[Core.System]:Paths entry '../../../Engine/Plugins/Editor/GLTFImporter/Content' is not mounted. Skipping it.
+[2024.02.11-18.08.23:212][603]UATHelper: Packaging (Windows): LogInit: Display: LogUObjectGlobals: Warning: [AssetLog] C:\Users\rocco\Documents\GitHub\BO\BOProject\Content\AI\AI_Mass\Areas\Talk\BP_StaticCharacter_Talk.uasset: Failed to load '/Game/Characters/Mannequins/Animations/ABP_Quinn': Can't find file.
+[2024.02.11-18.08.23:212][603]UATHelper: Packaging (Windows): LogInit: Display: LogLinker: Warning: [AssetLog] C:\Users\rocco\Documents\GitHub\BO\BOProject\Content\AI\AI_Mass\Areas\Talk\BP_StaticCharacter_Talk.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Characters/Mannequins/Animations/ABP_Quinn'
+[2024.02.11-18.08.23:212][603]UATHelper: Packaging (Windows): LogInit: Display: LogUObjectGlobals: Warning: [AssetLog] C:\Users\rocco\Documents\GitHub\BO\BOProject\Content\AI\AI_Mass\Areas\Talk\BP_StaticCharacter_Talk.uasset: Failed to load '/Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple': Can't find file.
+[2024.02.11-18.08.23:213][603]UATHelper: Packaging (Windows): LogInit: Display: LogLinker: Warning: [AssetLog] C:\Users\rocco\Documents\GitHub\BO\BOProject\Content\AI\AI_Mass\Areas\Talk\BP_StaticCharacter_Talk.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple'
+[2024.02.11-18.08.23:213][603]UATHelper: Packaging (Windows): LogInit: Display: LogUObjectGlobals: Warning: [AssetLog] C:\Users\rocco\Documents\GitHub\BO\BOProject\Content\Custom\Inventory\Items\TestItem.uasset: Failed to load '/Engine/BasicShapes/M_red': Can't find file.
+[2024.02.11-18.08.23:213][603]UATHelper: Packaging (Windows): LogInit: Display: LogLinker: Warning: [AssetLog] C:\Users\rocco\Documents\GitHub\BO\BOProject\Content\Custom\Inventory\Items\TestItem.uasset: VerifyImport: Failed to load package for import object 'Package /Engine/BasicShapes/M_red'
+[2024.02.11-18.08.23:213][603]UATHelper: Packaging (Windows): LogInit: Display:
+[2024.02.11-18.08.23:213][603]UATHelper: Packaging (Windows): LogInit: Display: Success - 0 error(s), 11 warning(s)
+[2024.02.11-18.08.23:213][603]UATHelper: Packaging (Windows): LogInit: Display:
+[2024.02.11-18.08.23:213][603]UATHelper: Packaging (Windows): Execution of commandlet took:  24.68 seconds
+[2024.02.11-18.08.23:545][604]UATHelper: Packaging (Windows): LogShaderCompilers: Display: ================================================
+[2024.02.11-18.08.23:545][604]UATHelper: Packaging (Windows): LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.11-18.08.23:545][604]UATHelper: Packaging (Windows): LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2024.02.11-18.08.23:545][604]UATHelper: Packaging (Windows): LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2024.02.11-18.08.23:545][604]UATHelper: Packaging (Windows): LogShaderCompilers: Display: RAM used: 240.00 B of 1.60 GiB budget. Usage: 0.00%
+[2024.02.11-18.08.23:545][604]UATHelper: Packaging (Windows): LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.11-18.08.23:545][604]UATHelper: Packaging (Windows): LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.02.11-18.08.23:545][604]UATHelper: Packaging (Windows): LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.02.11-18.08.23:545][604]UATHelper: Packaging (Windows): LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.02.11-18.08.23:545][604]UATHelper: Packaging (Windows): LogShaderCompilers: Display: ================================================
+[2024.02.11-18.08.24:705][607]UATHelper: Packaging (Windows): Took 34.88s to run UnrealEditor-Cmd.exe, ExitCode=0
+[2024.02.11-18.08.24:716][607]UATHelper: Packaging (Windows): Cook command time: 34.91 s
+[2024.02.11-18.08.24:716][607]UATHelper: Packaging (Windows): ********** COOK COMMAND COMPLETED **********
+[2024.02.11-18.08.24:726][607]UATHelper: Packaging (Windows): ********** STAGE COMMAND STARTED **********
+[2024.02.11-18.08.24:779][607]UATHelper: Packaging (Windows): Creating Staging Manifest...
+[2024.02.11-18.08.24:789][607]UATHelper: Packaging (Windows): Patching bootstrap executable; C:\Users\rocco\Documents\GitHub\BO\BOProject\Intermediate\Staging\BOProject.exe
+[2024.02.11-18.08.24:822][608]UATHelper: Packaging (Windows): Begin update resource 'C:\Users\rocco\Documents\GitHub\BO\BOProject\Intermediate\Staging\BOProject.exe' (0)
+[2024.02.11-18.08.24:822][608]UATHelper: Packaging (Windows): Add resource 101, length 104 (True)
+[2024.02.11-18.08.24:822][608]UATHelper: Packaging (Windows): Add resource 1, length 1996 (True)
+[2024.02.11-18.08.24:822][608]UATHelper: Packaging (Windows): Add resource 2, length 2447 (True)
+[2024.02.11-18.08.24:822][608]UATHelper: Packaging (Windows): Add resource 3, length 2535 (True)
+[2024.02.11-18.08.24:822][608]UATHelper: Packaging (Windows): Add resource 4, length 3037 (True)
+[2024.02.11-18.08.24:822][608]UATHelper: Packaging (Windows): Add resource 5, length 3244 (True)
+[2024.02.11-18.08.24:822][608]UATHelper: Packaging (Windows): Add resource 6, length 3531 (True)
+[2024.02.11-18.08.24:822][608]UATHelper: Packaging (Windows): Add resource 7, length 6931 (True)
+[2024.02.11-18.08.24:822][608]UATHelper: Packaging (Windows): Add resource 201, length 104 (True)
+[2024.02.11-18.08.24:822][608]UATHelper: Packaging (Windows): Add resource 202, length 76 (True)
+[2024.02.11-18.08.24:833][608]UATHelper: Packaging (Windows): End update resource (True/0)
+[2024.02.11-18.08.24:844][608]UATHelper: Packaging (Windows): Including config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\Base.ini
+[2024.02.11-18.08.24:844][608]UATHelper: Packaging (Windows): Including config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\BaseCompat.ini
+[2024.02.11-18.08.24:844][608]UATHelper: Packaging (Windows): Including config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\BaseDeviceProfiles.ini
+[2024.02.11-18.08.24:844][608]UATHelper: Packaging (Windows): Excluding config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\BaseEditor.ini
+[2024.02.11-18.08.24:844][608]UATHelper: Packaging (Windows): Excluding config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\BaseEditorKeyBindings.ini
+[2024.02.11-18.08.24:844][608]UATHelper: Packaging (Windows): Excluding config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\BaseEditorPerProjectUserSettings.ini
+[2024.02.11-18.08.24:844][608]UATHelper: Packaging (Windows): Excluding config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\BaseEditorSettings.ini
+[2024.02.11-18.08.24:844][608]UATHelper: Packaging (Windows): Including config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\BaseEngine.ini
+[2024.02.11-18.08.24:844][608]UATHelper: Packaging (Windows): Including config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\BaseGame.ini
+[2024.02.11-18.08.24:844][608]UATHelper: Packaging (Windows): Including config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\BaseGameUserSettings.ini
+[2024.02.11-18.08.24:844][608]UATHelper: Packaging (Windows): Including config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\BaseHardware.ini
+[2024.02.11-18.08.24:844][608]UATHelper: Packaging (Windows): Including config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\BaseInput.ini
+[2024.02.11-18.08.24:844][608]UATHelper: Packaging (Windows): Including config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\BaseInstallBundle.ini
+[2024.02.11-18.08.24:844][608]UATHelper: Packaging (Windows): Excluding config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\BaseLightmass.ini
+[2024.02.11-18.08.24:844][608]UATHelper: Packaging (Windows): Excluding config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\BasePakFileRules.ini
+[2024.02.11-18.08.24:844][608]UATHelper: Packaging (Windows): Including config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\BaseRuntimeOptions.ini
+[2024.02.11-18.08.24:844][608]UATHelper: Packaging (Windows): Including config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\BaseScalability.ini
+[2024.02.11-18.08.24:844][608]UATHelper: Packaging (Windows): Including config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\ConfigRedirects.ini
+[2024.02.11-18.08.24:844][608]UATHelper: Packaging (Windows): Excluding config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\ConsoleVariables.ini
+[2024.02.11-18.08.24:844][608]UATHelper: Packaging (Windows): Including config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\Layouts\DefaultLayout.ini
+[2024.02.11-18.08.24:844][608]UATHelper: Packaging (Windows): Including config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\Layouts\UE4ClassicLayout.ini
+[2024.02.11-18.08.24:844][608]UATHelper: Packaging (Windows): Excluding config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\Localization\Category.ini
+[2024.02.11-18.08.24:844][608]UATHelper: Packaging (Windows): Excluding config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\Localization\Editor.ini
+[2024.02.11-18.08.24:844][608]UATHelper: Packaging (Windows): Excluding config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\Localization\EditorTutorials.ini
+[2024.02.11-18.08.24:844][608]UATHelper: Packaging (Windows): Excluding config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\Localization\Engine.ini
+[2024.02.11-18.08.24:844][608]UATHelper: Packaging (Windows): Excluding config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\Localization\Keywords.ini
+[2024.02.11-18.08.24:844][608]UATHelper: Packaging (Windows): Excluding config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\Localization\PortableObjectExport.ini
+[2024.02.11-18.08.24:844][608]UATHelper: Packaging (Windows): Excluding config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\Localization\PortableObjectImport.ini
+[2024.02.11-18.08.24:844][608]UATHelper: Packaging (Windows): Excluding config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\Localization\PropertyNames.ini
+[2024.02.11-18.08.24:844][608]UATHelper: Packaging (Windows): Excluding config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\Localization\RepairData.ini
+[2024.02.11-18.08.24:844][608]UATHelper: Packaging (Windows): Excluding config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\Localization\ToolTips.ini
+[2024.02.11-18.08.24:844][608]UATHelper: Packaging (Windows): Excluding config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\Localization\WordCount.ini
+[2024.02.11-18.08.24:844][608]UATHelper: Packaging (Windows): Including config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\VulkanPC\DataDrivenPlatformInfo.ini
+[2024.02.11-18.08.24:844][608]UATHelper: Packaging (Windows): Including config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\Windows\BaseWindowsEngine.ini
+[2024.02.11-18.08.24:844][608]UATHelper: Packaging (Windows): Including config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\Windows\DataDrivenPlatformInfo.ini
+[2024.02.11-18.08.24:844][608]UATHelper: Packaging (Windows): Excluding config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\Windows\WindowsEditorPerProjectUserSettings.ini
+[2024.02.11-18.08.24:844][608]UATHelper: Packaging (Windows): Including config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\Windows\WindowsEngine.ini
+[2024.02.11-18.08.24:844][608]UATHelper: Packaging (Windows): Including config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\Windows\WindowsGame.ini
+[2024.02.11-18.08.24:844][608]UATHelper: Packaging (Windows): Including config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\Windows\WindowsInput.ini
+[2024.02.11-18.08.24:854][608]UATHelper: Packaging (Windows): Excluding config file C:\Users\rocco\Documents\GitHub\BO\BOProject\Config\DefaultEditor.ini
+[2024.02.11-18.08.24:854][608]UATHelper: Packaging (Windows): Including config file C:\Users\rocco\Documents\GitHub\BO\BOProject\Config\DefaultEngine.ini
+[2024.02.11-18.08.24:854][608]UATHelper: Packaging (Windows): Including config file C:\Users\rocco\Documents\GitHub\BO\BOProject\Config\DefaultGame.ini
+[2024.02.11-18.08.24:854][608]UATHelper: Packaging (Windows): Including config file C:\Users\rocco\Documents\GitHub\BO\BOProject\Config\DefaultInput.ini
+[2024.02.11-18.08.25:013][608]UATHelper: Packaging (Windows): Cleaning Stage Directory: C:\Users\rocco\Documents\GitHub\BO\BOProject\Saved\StagedBuilds\Windows
+[2024.02.11-18.08.25:066][608]UATHelper: Packaging (Windows): Creating pak using staging manifest.
+[2024.02.11-18.08.25:066][608]UATHelper: Packaging (Windows): DumpManifest: C:\Users\rocco\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_5.3\PrePak_Windows_NonUFSFiles.txt, NumItems: 16
+[2024.02.11-18.08.25:066][608]UATHelper: Packaging (Windows): DumpManifest: C:\Users\rocco\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_5.3\PrePak_Windows_NonUFSFilesDebug.txt, NumItems: 5
+[2024.02.11-18.08.25:066][608]UATHelper: Packaging (Windows): DumpManifest: C:\Users\rocco\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_5.3\PrePak_Windows_UFSFiles.txt, NumItems: 9007
+[2024.02.11-18.08.25:220][609]UATHelper: Packaging (Windows): No matching platform for PakFileRules for Section ExcludeContentForMobile : Windows
+[2024.02.11-18.08.25:264][609]UATHelper: Packaging (Windows): Using 0 pak order files:
+[2024.02.11-18.08.25:275][609]UATHelper: Packaging (Windows): Running: C:\Program Files\Epic Games\UE_5.3\Engine\Binaries\Win64\UnrealPak.exe "C:\Users\rocco\Documents\GitHub\BO\BOProject\BOProject.uproject"  -cryptokeys="C:\Users\rocco\Documents\GitHub\BO\BOProject\Saved\Cooked\Windows\BOProject\Metadata\Crypto.json" -patchpaddingalign=2048 -compressionformats=Oodle -compresslevel=5 -compressmethod=Kraken  -platform=Windows  -CreateMultiple="C:\Users\rocco\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_5.3\PakCommands.txt"
+[2024.02.11-18.08.25:500][610]UATHelper: Packaging (Windows): LogPakFile: Display: Parsing crypto keys from a crypto key cache file
+[2024.02.11-18.08.25:500][610]UATHelper: Packaging (Windows): LogPakFile: Display: CompressionFormats in priority order: Oodle, Zlib
+[2024.02.11-18.08.25:500][610]UATHelper: Packaging (Windows): LogPakFile: Display: Oodle enabled on 'NoPluginCompression' files
+[2024.02.11-18.08.25:512][610]UATHelper: Packaging (Windows): LogPakFile: Display: Loading response file C:\Program Files\Epic Games\UE_5.3\Engine\Programs\AutomationTool\Saved\ResponseFiles\PakList_BOProject-Windows.txt
+[2024.02.11-18.08.25:512][610]UATHelper: Packaging (Windows): LogPakFile: Display: Added 1514 entries to add to pak file.
+[2024.02.11-18.08.25:523][610]UATHelper: Packaging (Windows): LogPakFile: Display: Collecting files to add to pak file...
+[2024.02.11-18.08.25:523][610]UATHelper: Packaging (Windows): LogPakFile: Display: Collected 1514 files in 0.01s.
+[2024.02.11-18.08.25:523][610]UATHelper: Packaging (Windows): LogPakFile: Display: Creating pak C:\Users\rocco\Documents\GitHub\BO\BOProject\Saved\StagedBuilds\Windows\BOProject\Content\Paks\BOProject-Windows.pak.
+[2024.02.11-18.08.26:654][613]UATHelper: Packaging (Windows): OodleDataCompression: Display: Oodle v2.9.10 format for pak/iostore with method=Kraken, level=5=Optimal1
+[2024.02.11-18.08.26:664][613]UATHelper: Packaging (Windows): LogPakFile: Display: Created pak file: C:\Users\rocco\Documents\GitHub\BO\BOProject\Saved\StagedBuilds\Windows\BOProject\Content\Paks\BOProject-Windows.pak
+[2024.02.11-18.08.26:664][613]UATHelper: Packaging (Windows): LogPakFile: Display: CompressionFormat 0 [Oodle] : 327 files, 23609162 -> 8213744 bytes
+[2024.02.11-18.08.26:664][613]UATHelper: Packaging (Windows): LogPakFile: Display: CompressionFormat 2 [None] : 1187 files, 701127 -> 701127 bytes
+[2024.02.11-18.08.26:664][613]UATHelper: Packaging (Windows): LogPakFile: Display: Added 1514 files, 9498284 bytes total
+[2024.02.11-18.08.26:664][613]UATHelper: Packaging (Windows): LogPakFile: Display: PrimaryIndex size: 20950 bytes
+[2024.02.11-18.08.26:664][613]UATHelper: Packaging (Windows): LogPakFile: Display: PathHashIndex size: 43674 bytes
+[2024.02.11-18.08.26:664][613]UATHelper: Packaging (Windows): LogPakFile: Display: FullDirectoryIndex size: 46846 bytes
+[2024.02.11-18.08.26:664][613]UATHelper: Packaging (Windows): LogPakFile: Display: Compression summary: 34.79% of original size. Compressed Size 8213744 bytes, Original Size 23609162 bytes.
+[2024.02.11-18.08.26:664][613]UATHelper: Packaging (Windows): LogPakFile: Display: Encryption - DISABLED
+[2024.02.11-18.08.26:664][613]UATHelper: Packaging (Windows): LogPakFile: Display:
+[2024.02.11-18.08.26:664][613]UATHelper: Packaging (Windows): LogPakFile: Display: Writer and Compression Threads exited.
+[2024.02.11-18.08.26:708][613]UATHelper: Packaging (Windows): LogPakFile: Display: UnrealPak executed in 1.170424 seconds
+[2024.02.11-18.08.26:708][613]UATHelper: Packaging (Windows): Took 1.43s to run UnrealPak.exe, ExitCode=0
+[2024.02.11-18.08.26:718][613]UATHelper: Packaging (Windows): Running UnrealPak with arguments: -CreateGlobalContainer="C:\Users\rocco\Documents\GitHub\BO\BOProject\Saved\StagedBuilds\Windows\BOProject\Content\Paks\global.utoc" -CookedDirectory="C:\Users\rocco\Documents\GitHub\BO\BOProject\Saved\Cooked\Windows" -PackageStoreManifest="C:\Users\rocco\Documents\GitHub\BO\BOProject\Saved\Cooked\Windows\BOProject\Metadata\packagestore.manifest" -Commands="C:\Users\rocco\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_5.3\IoStoreCommands.txt" -ScriptObjects="C:\Users\rocco\Documents\GitHub\BO\BOProject\Saved\Cooked\Windows\BOProject\Metadata\scriptobjects.bin" -patchpaddingalign=2048 -compressionformats=Oodle -compresslevel=5 -compressmethod=Kraken   -cryptokeys="C:\Users\rocco\Documents\GitHub\BO\BOProject\Saved\Cooked\Windows\BOProject\Metadata\Crypto.json" -compressionMinBytesSaved=1024 -compressionMinPercentSaved=5 -WriteBackMetadataToAssetRegistry=Disabled 
+[2024.02.11-18.08.26:718][613]UATHelper: Packaging (Windows): Running: C:\Program Files\Epic Games\UE_5.3\Engine\Binaries\Win64\UnrealPak.exe -CreateGlobalContainer="C:\Users\rocco\Documents\GitHub\BO\BOProject\Saved\StagedBuilds\Windows\BOProject\Content\Paks\global.utoc" -CookedDirectory="C:\Users\rocco\Documents\GitHub\BO\BOProject\Saved\Cooked\Windows" -PackageStoreManifest="C:\Users\rocco\Documents\GitHub\BO\BOProject\Saved\Cooked\Windows\BOProject\Metadata\packagestore.manifest" -Commands="C:\Users\rocco\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_5.3\IoStoreCommands.txt" -ScriptObjects="C:\Users\rocco\Documents\GitHub\BO\BOProject\Saved\Cooked\Windows\BOProject\Metadata\scriptobjects.bin" -patchpaddingalign=2048 -compressionformats=Oodle -compresslevel=5 -compressmethod=Kraken   -cryptokeys="C:\Users\rocco\Documents\GitHub\BO\BOProject\Saved\Cooked\Windows\BOProject\Metadata\Crypto.json" -compressionMinBytesSaved=1024 -compressionMinPercentSaved=5 -WriteBackMetadataToAssetRegistry=Disabled
+[2024.02.11-18.08.26:877][614]UATHelper: Packaging (Windows): LogIoStore: Display: ==================== IoStore Utils ====================
+[2024.02.11-18.08.26:877][614]UATHelper: Packaging (Windows): LogIoStore: Display: Parsing crypto keys from a crypto key cache file 'C:\Users\rocco\Documents\GitHub\BO\BOProject\Saved\Cooked\Windows\BOProject\Metadata\Crypto.json'
+[2024.02.11-18.08.26:877][614]UATHelper: Packaging (Windows): LogIoStore: Display: Container signing - DISABLED
+[2024.02.11-18.08.26:877][614]UATHelper: Packaging (Windows): LogIoStore: Display: Directory index - ENABLED
+[2024.02.11-18.08.26:877][614]UATHelper: Packaging (Windows): LogIoStore: Display: Using compression format 'Oodle'
+[2024.02.11-18.08.26:877][614]UATHelper: Packaging (Windows): LogIoStore: Display: Using memory mapping alignment '16384'
+[2024.02.11-18.08.26:877][614]UATHelper: Packaging (Windows): LogIoStore: Display: Using compression block size '65536'
+[2024.02.11-18.08.26:877][614]UATHelper: Packaging (Windows): LogIoStore: Display: Using compression block alignment '2048'
+[2024.02.11-18.08.26:877][614]UATHelper: Packaging (Windows): LogIoStore: Display: Using compression min bytes saved '1024'
+[2024.02.11-18.08.26:877][614]UATHelper: Packaging (Windows): LogIoStore: Display: Using compression min percent saved '5'
+[2024.02.11-18.08.26:877][614]UATHelper: Packaging (Windows): LogIoStore: Display: Using max partition size '0'
+[2024.02.11-18.08.26:877][614]UATHelper: Packaging (Windows): LogIoStore: Display: Not using DDC for compression
+[2024.02.11-18.08.26:899][614]UATHelper: Packaging (Windows): LogIoStore: Display: Using command list file: 'C:\Users\rocco\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_5.3\IoStoreCommands.txt'
+[2024.02.11-18.08.26:910][614]UATHelper: Packaging (Windows): LogIoStore: Display: Selected Oodle level 5 (Optimal1) from command line for shaders
+[2024.02.11-18.08.26:953][614]UATHelper: Packaging (Windows): LogIoStore: Display: Searching for cooked assets in folder 'C:\Users\rocco\Documents\GitHub\BO\BOProject\Saved\Cooked\Windows'
+[2024.02.11-18.08.26:975][614]UATHelper: Packaging (Windows): LogIoStore: Display: Found '7497' files
+[2024.02.11-18.08.26:985][614]UATHelper: Packaging (Windows): LogIoStore: Display: Using input asset registry: C:\Users\rocco\Documents\GitHub\BO\BOProject\Saved\Cooked\Windows/BOProject/Metadata/DevelopmentAssetRegistry.bin
+[2024.02.11-18.08.26:996][614]UATHelper: Packaging (Windows): LogIoStore: Display: Added 145 hashes to the hash database, init took 0.000181 seconds
+[2024.02.11-18.08.27:006][614]UATHelper: Packaging (Windows): LogIoStore: Display: Creating container targets...
+[2024.02.11-18.08.27:038][614]UATHelper: Packaging (Windows): OodleDataCompression: Display: Oodle v2.9.10 format for pak/iostore with method=Kraken, level=5=Optimal1
+[2024.02.11-18.08.27:038][614]UATHelper: Packaging (Windows): LogIoStore: Display: Parsing packages...
+[2024.02.11-18.08.27:049][614]UATHelper: Packaging (Windows): LogIoStore: Display: Reading package assets...
+[2024.02.11-18.08.27:060][614]UATHelper: Packaging (Windows): LogIoStore: Display: Reading 1000/3672: 'C:/Users/rocco/Documents/GitHub/BO/BOProject/Saved/Cooked/Windows/Engine/Content/EngineMaterials/Substrate/Glints2/dict_0004_0215.uasset'
+[2024.02.11-18.08.27:072][614]UATHelper: Packaging (Windows): LogIoStore: Display: Reading 2000/3672: 'C:/Users/rocco/Documents/GitHub/BO/BOProject/Saved/Cooked/Windows/Engine/Content/EngineMaterials/Substrate/Glints2/dict_0002_0135.uasset'
+[2024.02.11-18.08.27:100][614]UATHelper: Packaging (Windows): LogIoStore: Display: Reading 3000/3672: 'C:/Users/rocco/Documents/GitHub/BO/BOProject/Saved/Cooked/Windows/Engine/Content/EngineMaterials/Substrate/Glints2/dict_0004_0023.uasset'
+[2024.02.11-18.08.27:109][614]UATHelper: Packaging (Windows): LogIoStore: Display: Packages read 3,672 files in 0.05 seconds, 4,901,307 total bytes, 101,561,916 bytes per second
+[2024.02.11-18.08.27:109][614]UATHelper: Packaging (Windows): LogIoStore: Display: Processing shader libraries, compressing with Oodle Mermaid, level 5 (Optimal1)
+[2024.02.11-18.08.27:542][616]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 154 groups (54 of them didn't need new indices), average uncompressed size 99373 bytes, min 436 bytes, max 823829 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
+[2024.02.11-18.08.27:542][616]UATHelper: Packaging (Windows): LogIoStore: Display: BOProject-PCD3D_SM5(PCD3D_SM5): Recompressed 1370 shaders as 154 groups. Library size changed from 4208 KB (3.55 : 1 ratio) to 1106 KB (13.51 : 1 ratio), 26.28% of previous.
+[2024.02.11-18.08.29:976][623]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 191 groups (50 of them didn't need new indices), average uncompressed size 395773 bytes, min 4086 bytes, max 1041076 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
+[2024.02.11-18.08.29:976][623]UATHelper: Packaging (Windows): LogIoStore: Display: BOProject-PCD3D_SM6(PCD3D_SM6): Recompressed 1636 shaders as 191 groups. Library size changed from 42587 KB (1.73 : 1 ratio) to 25856 KB (2.86 : 1 ratio), 60.71% of previous.
+[2024.02.11-18.08.31:746][628]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 329 groups (119 of them didn't need new indices), average uncompressed size 157809 bytes, min 172 bytes, max 1026946 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
+[2024.02.11-18.08.31:785][628]UATHelper: Packaging (Windows): LogIoStore: Display: Global-PCD3D_SM5(PCD3D_SM5): Recompressed 3539 shaders as 329 groups. Library size changed from 12101 KB (4.19 : 1 ratio) to 4447 KB (11.40 : 1 ratio), 36.75% of previous.
+[2024.02.11-18.08.35:360][638]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 404 groups (129 of them didn't need new indices), average uncompressed size 303250 bytes, min 2166 bytes, max 1033458 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
+[2024.02.11-18.08.35:360][638]UATHelper: Packaging (Windows): LogIoStore: Display: Global-PCD3D_SM6(PCD3D_SM6): Recompressed 4161 shaders as 404 groups. Library size changed from 75590 KB (1.58 : 1 ratio) to 39557 KB (3.02 : 1 ratio), 52.33% of previous.
+[2024.02.11-18.08.35:360][638]UATHelper: Packaging (Windows): LogIoStore: Display: Shaders processed in 8.22 seconds
+[2024.02.11-18.08.35:360][638]UATHelper: Packaging (Windows): LogIoStore: Display: Processing redirects...
+[2024.02.11-18.08.35:360][638]UATHelper: Packaging (Windows): LogIoStore: Display: Creating disk layout...
+[2024.02.11-18.08.35:360][638]UATHelper: Packaging (Windows): LogIoStore: Display: Ordered 3672 packages using fallback bundle order
+[2024.02.11-18.08.37:380][644]UATHelper: Packaging (Windows): LogIoStore: Display: Serializing container(s)...
+[2024.02.11-18.08.39:396][724]UATHelper: Packaging (Windows): LogIoStore: Display: Writing chunks (936/4899)... [2784 compressed] [1184 compression tasks scheduled]
+[2024.02.11-18.08.41:425][831]UATHelper: Packaging (Windows): LogIoStore: Display: Writing chunks (1637/4899)... [3677 compressed] [2063 compression tasks scheduled]
+[2024.02.11-18.08.43:428][942]UATHelper: Packaging (Windows): LogIoStore: Display: Writing chunks (1637/4899)... [3698 compressed] [918 compression tasks scheduled]
+[2024.02.11-18.08.43:910][966]UATHelper: Packaging (Windows): LogIoStore: Display: Writing chunks (1637/4899)... [3710 compressed] [253 compression tasks scheduled]
+[2024.02.11-18.08.43:910][966]UATHelper: Packaging (Windows): LogIoStore: Display: Writing and compressing took 8.42 seconds, writes to disk took 0.19 seconds for 157,889,920 bytes @ 821,648,355 bytes per second.
+[2024.02.11-18.08.43:910][966]UATHelper: Packaging (Windows): LogIoStore: Display: global: Found perfect hashmap for 1 items.
+[2024.02.11-18.08.43:974][970]UATHelper: Packaging (Windows): LogIoStore: Display: BOProject-Windows: Found perfect hashmap for 4898 items.
+[2024.02.11-18.08.43:974][970]UATHelper: Packaging (Windows): LogIoStore: Display: Finalize took 0.1 seconds for 2 writers to write 569,008 bytes, 9,533,741 bytes per second
+[2024.02.11-18.08.43:974][970]UATHelper: Packaging (Windows): LogIoStore: Display: 145 / 4,899 hashes were loaded from the hash database, by type:
+[2024.02.11-18.08.43:974][970]UATHelper: Packaging (Windows): LogIoStore: Display:     BulkData                   145
+[2024.02.11-18.08.43:974][970]UATHelper: Packaging (Windows): LogIoStore: Display: 3,817 / 4,899 chunks attempted to compress, by type:
+[2024.02.11-18.08.43:974][970]UATHelper: Packaging (Windows): LogIoStore: Display:     ExportBundleData           3,672 / 3,672
+[2024.02.11-18.08.43:974][970]UATHelper: Packaging (Windows): LogIoStore: Display:     BulkData                   145 / 145
+[2024.02.11-18.08.43:974][970]UATHelper: Packaging (Windows): LogIoStore: Display:     ScriptObjects              0 / 1
+[2024.02.11-18.08.43:974][970]UATHelper: Packaging (Windows): LogIoStore: Display:     ContainerHeader            0 / 1
+[2024.02.11-18.08.43:974][970]UATHelper: Packaging (Windows): LogIoStore: Display:     ShaderCodeLibrary          0 / 4
+[2024.02.11-18.08.43:974][970]UATHelper: Packaging (Windows): LogIoStore: Display:     ShaderCode                 0 / 1,076
+[2024.02.11-18.08.43:974][970]UATHelper: Packaging (Windows): LogIoStore: Display: Source bytes read:
+[2024.02.11-18.08.43:974][970]UATHelper: Packaging (Windows): LogIoStore: Display:     Zen:                                  0
+[2024.02.11-18.08.43:974][970]UATHelper: Packaging (Windows): LogIoStore: Display:     Loose File:                 407,896,896
+[2024.02.11-18.08.43:974][970]UATHelper: Packaging (Windows): LogIoStore: Display:         ExportBundleData        265,252,908 bytes over 7,344 reads
+[2024.02.11-18.08.43:974][970]UATHelper: Packaging (Windows): LogIoStore: Display:         BulkData                142,643,988 bytes over 145 reads
+[2024.02.11-18.08.43:974][970]UATHelper: Packaging (Windows): LogIoStore: Display:     Memory:                     146,189,666
+[2024.02.11-18.08.43:974][970]UATHelper: Packaging (Windows): LogIoStore: Display:         ShaderCodeLibrary           880,152 bytes over 8 reads
+[2024.02.11-18.08.43:974][970]UATHelper: Packaging (Windows): LogIoStore: Display:         ShaderCode              145,309,514 bytes over 2,152 reads
+[2024.02.11-18.08.43:974][970]UATHelper: Packaging (Windows): LogIoStore: Display: Calculating stats...
+[2024.02.11-18.08.43:974][970]UATHelper: Packaging (Windows): LogIoStore: Display: --------------------------------------------------- IoDispatcher --------------------------------------------------------
+[2024.02.11-18.08.43:974][970]UATHelper: Packaging (Windows): LogIoStore: Display:
+[2024.02.11-18.08.43:974][970]UATHelper: Packaging (Windows): LogIoStore: Display: Container                           Flags   TOC Size (KB)     TOC Entries       Size (MB)           Compressed (MB)
+[2024.02.11-18.08.43:974][970]UATHelper: Packaging (Windows): LogIoStore: Display: -------------------------------------------------------------------------------------------------------------------------
+[2024.02.11-18.08.43:974][970]UATHelper: Packaging (Windows): LogIoStore: Display: global                          -/-/-/-/-            0.56               1            1.93                         -
+[2024.02.11-18.08.43:974][970]UATHelper: Packaging (Windows): LogIoStore: Display: BOProject-Windows               C/-/-/I/-          555.11            4898          337.49     148.65 (55.96% Oodle)
+[2024.02.11-18.08.43:974][970]UATHelper: Packaging (Windows): LogIoStore: Display: TOTAL                                              555.67            4899          339.42                         -
+[2024.02.11-18.08.43:974][970]UATHelper: Packaging (Windows): LogIoStore: Display:
+[2024.02.11-18.08.43:974][970]UATHelper: Packaging (Windows): LogIoStore: Display: ** Flags: (C)ompressed / (E)ncrypted / (S)igned) / (I)ndexed) / (O)nDemand **
+[2024.02.11-18.08.43:974][970]UATHelper: Packaging (Windows): LogIoStore: Display:
+[2024.02.11-18.08.43:974][970]UATHelper: Packaging (Windows): LogIoStore: Display: Compression block padding:     2.33 MB
+[2024.02.11-18.08.43:974][970]UATHelper: Packaging (Windows): LogIoStore: Display:
+[2024.02.11-18.08.43:974][970]UATHelper: Packaging (Windows): LogIoStore: Display: -------------------------------------------- Container Directory Index --------------------------------------------------
+[2024.02.11-18.08.43:974][970]UATHelper: Packaging (Windows): LogIoStore: Display: Container                            Size (KB)
+[2024.02.11-18.08.43:974][970]UATHelper: Packaging (Windows): LogIoStore: Display: global                                    0.00
+[2024.02.11-18.08.43:974][970]UATHelper: Packaging (Windows): LogIoStore: Display: BOProject-Windows                       168.12
+[2024.02.11-18.08.43:974][970]UATHelper: Packaging (Windows): LogIoStore: Display:
+[2024.02.11-18.08.43:974][970]UATHelper: Packaging (Windows): LogIoStore: Display: ---------------------------------------------- Container Patch Report ---------------------------------------------------
+[2024.02.11-18.08.43:974][970]UATHelper: Packaging (Windows): LogIoStore: Display: Container                         Total (count) Modified (count)    Added (count)    Modified (MB)       Added (MB)
+[2024.02.11-18.08.43:974][970]UATHelper: Packaging (Windows): LogIoStore: Display: global                                        1                0                0             0.00             0.00
+[2024.02.11-18.08.43:974][970]UATHelper: Packaging (Windows): LogIoStore: Display: BOProject-Windows                          4898                0             4898             0.00           146.32
+[2024.02.11-18.08.43:974][970]UATHelper: Packaging (Windows): LogIoStore: Display:
+[2024.02.11-18.08.43:974][970]UATHelper: Packaging (Windows): LogIoStore: Display:
+[2024.02.11-18.08.43:974][970]UATHelper: Packaging (Windows): LogIoStore: Display: --------------------------------------------------- PackageStore (KB) ---------------------------------------------------
+[2024.02.11-18.08.43:974][970]UATHelper: Packaging (Windows): LogIoStore: Display:
+[2024.02.11-18.08.43:974][970]UATHelper: Packaging (Windows): LogIoStore: Display: Container                                Store Size             Packages            Localized
+[2024.02.11-18.08.43:974][970]UATHelper: Packaging (Windows): LogIoStore: Display: -------------------------------------------------------------------------------------------------------------------------
+[2024.02.11-18.08.43:974][970]UATHelper: Packaging (Windows): LogIoStore: Display: BOProject-Windows                                68                 3672                    0
+[2024.02.11-18.08.43:985][971]UATHelper: Packaging (Windows): LogIoStore: Display: TOTAL                                            68                 3672                    0
+[2024.02.11-18.08.43:985][971]UATHelper: Packaging (Windows): LogIoStore: Display:
+[2024.02.11-18.08.43:985][971]UATHelper: Packaging (Windows): LogIoStore: Display:
+[2024.02.11-18.08.43:985][971]UATHelper: Packaging (Windows): LogIoStore: Display: Input:      3672 Packages
+[2024.02.11-18.08.43:985][971]UATHelper: Packaging (Windows): LogIoStore: Display: Input:      0.12 GB UExp
+[2024.02.11-18.08.43:985][971]UATHelper: Packaging (Windows): LogIoStore: Display: Input:      0.00 GB UAsset
+[2024.02.11-18.08.43:985][971]UATHelper: Packaging (Windows): LogIoStore: Display: Input:      0.13 GB UBulk
+[2024.02.11-18.08.43:985][971]UATHelper: Packaging (Windows): LogIoStore: Display: Input:     42.97 MB for 733 Global shaders
+[2024.02.11-18.08.43:985][971]UATHelper: Packaging (Windows): LogIoStore: Display: Input:      3.37 MB for 137 Shared shaders
+[2024.02.11-18.08.43:985][971]UATHelper: Packaging (Windows): LogIoStore: Display: Input:      0.00 MB for 0 Unique shaders
+[2024.02.11-18.08.43:985][971]UATHelper: Packaging (Windows): LogIoStore: Display: Input:     22.95 MB for 206 Inline shaders
+[2024.02.11-18.08.43:985][971]UATHelper: Packaging (Windows): LogIoStore: Display:
+[2024.02.11-18.08.43:985][971]UATHelper: Packaging (Windows): LogIoStore: Display: Output:    30775 Name map entries
+[2024.02.11-18.08.43:985][971]UATHelper: Packaging (Windows): LogIoStore: Display: Output:      875 Imported package entries
+[2024.02.11-18.08.43:985][971]UATHelper: Packaging (Windows): LogIoStore: Display: Output:     3368 Packages without imports
+[2024.02.11-18.08.43:985][971]UATHelper: Packaging (Windows): LogIoStore: Display: Output:        0 Public runtime script objects
+[2024.02.11-18.08.43:985][971]UATHelper: Packaging (Windows): LogIoStore: Display: Output:     0.00 GB HeaderData
+[2024.02.11-18.08.43:985][971]UATHelper: Packaging (Windows): LogIoStore: Display: Output:     1.93 MB InitialLoadData
+[2024.02.11-18.08.43:985][971]UATHelper: Packaging (Windows): LogIoStore: Display:
+[2024.02.11-18.08.44:050][975]UATHelper: Packaging (Windows): LogPakFile: Display: UnrealPak executed in 17.109349 seconds
+[2024.02.11-18.08.44:050][975]UATHelper: Packaging (Windows): Took 17.33s to run UnrealPak.exe, ExitCode=0
+[2024.02.11-18.08.44:050][975]UATHelper: Packaging (Windows): DumpManifest: C:\Users\rocco\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_5.3\FinalCopyWin64_UFSFiles.txt, NumItems: 9008
+[2024.02.11-18.08.44:061][975]UATHelper: Packaging (Windows): DumpManifest: C:\Users\rocco\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_5.3\FinalCopyWin64_NonUFSFiles.txt, NumItems: 16
+[2024.02.11-18.08.44:061][975]UATHelper: Packaging (Windows): DumpManifest: C:\Users\rocco\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_5.3\FinalCopyWin64_NonUFSFilesDebug.txt, NumItems: 5
+[2024.02.11-18.08.44:072][976]UATHelper: Packaging (Windows): Copying NonUFSFiles to staging directory: C:\Users\rocco\Documents\GitHub\BO\BOProject\Saved\StagedBuilds\Windows
+[2024.02.11-18.08.44:672][993]UATHelper: Packaging (Windows): Stage command time: 19.95 s
+[2024.02.11-18.08.44:672][993]UATHelper: Packaging (Windows): ********** STAGE COMMAND COMPLETED **********
+[2024.02.11-18.08.44:672][993]UATHelper: Packaging (Windows): ********** PACKAGE COMMAND STARTED **********
+[2024.02.11-18.08.44:682][993]UATHelper: Packaging (Windows): Package command time: 0.00 s
+[2024.02.11-18.08.44:682][993]UATHelper: Packaging (Windows): ********** PACKAGE COMMAND COMPLETED **********
+[2024.02.11-18.08.44:682][993]UATHelper: Packaging (Windows): ********** ARCHIVE COMMAND STARTED **********
+[2024.02.11-18.08.44:682][993]UATHelper: Packaging (Windows): Archiving to C:/Users/rocco/OneDrive/Desktop
+[2024.02.11-18.08.44:974][994]UATHelper: Packaging (Windows): Archive command time: 0.29 s
+[2024.02.11-18.08.44:974][994]UATHelper: Packaging (Windows): ********** ARCHIVE COMMAND COMPLETED **********
+[2024.02.11-18.08.44:974][994]UATHelper: Packaging (Windows): BuildCookRun time: 55.44 s
+[2024.02.11-18.08.44:974][994]UATHelper: Packaging (Windows): BUILD SUCCESSFUL
+[2024.02.11-18.08.44:984][994]UATHelper: Packaging (Windows): AutomationTool executed for 0h 0m 56s
+[2024.02.11-18.08.44:984][994]UATHelper: Packaging (Windows): AutomationTool exiting with ExitCode=0 (Success)
+[2024.02.11-18.08.51:060][160]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.02.11-18.08.51:061][160]LogStall: Shutdown...
+[2024.02.11-18.08.51:065][160]LogStall: Shutdown complete.
+[2024.02.11-18.08.51:090][160]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.02.11-18.08.51:090][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.11-18.08.51:177][160]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.02.11-18.08.51:177][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.11-18.08.51:208][160]LogSlate: Window 'BP_NPCInfected' being destroyed
+[2024.02.11-18.08.51:219][160]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.02.11-18.08.51:219][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.11-18.08.51:280][160]LogSlate: Window 'BOProject - Unreal Editor' being destroyed
+[2024.02.11-18.08.51:445][161]Cmd: QUIT_EDITOR
+[2024.02.11-18.08.51:445][161]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.02.11-18.08.51:454][161]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.02.11-18.08.51:454][161]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.02.11-18.08.51:454][161]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.02.11-18.08.51:460][161]LogWorld: UWorld::CleanupWorld for Blockout, bSessionEnded=true, bCleanupResources=true
+[2024.02.11-18.08.51:460][161]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.11-18.08.51:466][161]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.02.11-18.08.52:272][161]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.02.11-18.08.52:274][161]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.02.11-18.08.52:274][161]LogAudio: Display: Audio Device unregistered from world 'Blockout'.
+[2024.02.11-18.08.52:274][161]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2024.02.11-18.08.52:274][161]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.02.11-18.08.52:276][161]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.02.11-18.08.52:280][161]LogAudio: Display: Audio Device Manager Shutdown
+[2024.02.11-18.08.52:281][161]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2024.02.11-18.08.52:286][161]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.02.11-18.08.52:286][161]LogExit: Preparing to exit.
+[2024.02.11-18.08.52:306][161]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.02.11-18.08.52:311][161]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.11-18.08.52:311][161]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.11-18.08.52:311][161]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.11-18.08.52:311][161]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.11-18.08.52:311][161]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.11-18.08.52:311][161]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.11-18.08.52:312][161]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.11-18.08.52:312][161]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.11-18.08.52:312][161]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.11-18.08.52:312][161]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.11-18.08.52:312][161]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.11-18.08.52:312][161]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.11-18.08.52:312][161]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.11-18.08.52:312][161]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.11-18.08.52:312][161]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.11-18.08.52:312][161]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.11-18.08.52:312][161]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.11-18.08.52:312][161]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.11-18.08.52:312][161]LogPython: Display: Object '/Engine/PythonTypes.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.11-18.08.52:312][161]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.11-18.08.53:178][161]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.02.11-18.08.53:181][161]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.02.11-18.08.53:183][161]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.02.11-18.08.53:186][161]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.02.11-18.08.53:188][161]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.02.11-18.08.53:190][161]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.02.11-18.08.53:194][161]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.02.11-18.08.53:297][161]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.02.11-18.08.53:313][161]LogExit: Editor shut down
+[2024.02.11-18.08.53:315][161]LogExit: Transaction tracking system shut down
+[2024.02.11-18.08.53:445][161]LogExit: Object subsystem successfully closed.
+[2024.02.11-18.08.53:451][161]LogShaderCompilers: Display: ================================================
+[2024.02.11-18.08.53:451][161]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.11-18.08.53:451][161]LogShaderCompilers: Display: Total job queries 2, among them cache hits 0 (0.00%)
+[2024.02.11-18.08.53:451][161]LogShaderCompilers: Display: Tracking 2 distinct input hashes that result in 2 distinct outputs (100.00%)
+[2024.02.11-18.08.53:451][161]LogShaderCompilers: Display: RAM used: 8.35 KiB of 1.60 GiB budget. Usage: 0.00%
+[2024.02.11-18.08.53:451][161]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.11-18.08.53:451][161]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.02.11-18.08.53:451][161]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.02.11-18.08.53:451][161]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.02.11-18.08.53:451][161]LogShaderCompilers: Display: ================================================
+[2024.02.11-18.08.53:498][161]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.02.11-18.08.53:532][161]LogVirtualization: UE::Virtualization was shutdown
+[2024.02.11-18.08.53:584][161]LogModuleManager: Shutting down and abandoning module UATHelper (1056)
+[2024.02.11-18.08.53:584][161]LogModuleManager: Shutting down and abandoning module TurnkeyIO (1054)
+[2024.02.11-18.08.53:586][161]LogModuleManager: Shutting down and abandoning module LauncherServices (1052)
+[2024.02.11-18.08.53:586][161]LogModuleManager: Shutting down and abandoning module MaterialEditor (1050)
+[2024.02.11-18.08.53:586][161]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (1048)
+[2024.02.11-18.08.53:586][161]LogModuleManager: Shutting down and abandoning module AddContentDialog (1046)
+[2024.02.11-18.08.53:586][161]LogModuleManager: Shutting down and abandoning module WidgetCarousel (1045)
+[2024.02.11-18.08.53:586][161]LogModuleManager: Shutting down and abandoning module SubobjectEditor (1042)
+[2024.02.11-18.08.53:586][161]LogModuleManager: Shutting down and abandoning module SceneOutliner (1040)
+[2024.02.11-18.08.53:586][161]LogModuleManager: Shutting down and abandoning module StatusBar (1038)
+[2024.02.11-18.08.53:586][161]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (1036)
+[2024.02.11-18.08.53:586][161]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (1034)
+[2024.02.11-18.08.53:586][161]LogModuleManager: Shutting down and abandoning module StatsViewer (1032)
+[2024.02.11-18.08.53:586][161]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (1030)
+[2024.02.11-18.08.53:586][161]LogModuleManager: Shutting down and abandoning module AutomationWorker (1028)
+[2024.02.11-18.08.53:586][161]LogModuleManager: Shutting down and abandoning module WaveTableEditor (1026)
+[2024.02.11-18.08.53:586][161]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (1024)
+[2024.02.11-18.08.53:586][161]LogModuleManager: Shutting down and abandoning module RigVMEditor (1022)
+[2024.02.11-18.08.53:586][161]LogModuleManager: Shutting down and abandoning module GooglePADEditor (1020)
+[2024.02.11-18.08.53:586][161]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (1018)
+[2024.02.11-18.08.53:586][161]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (1016)
+[2024.02.11-18.08.53:586][161]LogModuleManager: Shutting down and abandoning module PlanarCut (1014)
+[2024.02.11-18.08.53:586][161]LogModuleManager: Shutting down and abandoning module FractureEngine (1012)
+[2024.02.11-18.08.53:586][161]LogModuleManager: Shutting down and abandoning module CharacterAI (1010)
+[2024.02.11-18.08.53:586][161]LogModuleManager: Shutting down and abandoning module SmartSnapping (1008)
+[2024.02.11-18.08.53:586][161]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (1006)
+[2024.02.11-18.08.53:586][161]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (1004)
+[2024.02.11-18.08.53:586][161]LogModuleManager: Shutting down and abandoning module WebMMedia (1002)
+[2024.02.11-18.08.53:586][161]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (1000)
+[2024.02.11-18.08.53:586][161]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (998)
+[2024.02.11-18.08.53:586][161]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (996)
+[2024.02.11-18.08.53:586][161]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (994)
+[2024.02.11-18.08.53:586][161]LogModuleManager: Shutting down and abandoning module SequenceRecorder (993)
+[2024.02.11-18.08.53:586][161]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (990)
+[2024.02.11-18.08.53:586][161]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (988)
+[2024.02.11-18.08.53:586][161]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (986)
+[2024.02.11-18.08.53:586][161]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (984)
+[2024.02.11-18.08.53:586][161]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (982)
+[2024.02.11-18.08.53:586][161]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (980)
+[2024.02.11-18.08.53:586][161]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (978)
+[2024.02.11-18.08.53:586][161]LogModuleManager: Shutting down and abandoning module TextureAlignMode (976)
+[2024.02.11-18.08.53:586][161]LogModuleManager: Shutting down and abandoning module BspMode (974)
+[2024.02.11-18.08.53:586][161]LogModuleManager: Shutting down and abandoning module GeometryMode (972)
+[2024.02.11-18.08.53:586][161]LogModuleManager: Shutting down and abandoning module EngineAssetDefinitions (970)
+[2024.02.11-18.08.53:586][161]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (968)
+[2024.02.11-18.08.53:586][161]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (966)
+[2024.02.11-18.08.53:586][161]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (964)
+[2024.02.11-18.08.53:586][161]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (962)
+[2024.02.11-18.08.53:586][161]LogModuleManager: Shutting down and abandoning module IKRigEditor (960)
+[2024.02.11-18.08.53:586][161]LogModuleManager: Shutting down and abandoning module ControlRigEditor (958)
+[2024.02.11-18.08.53:586][161]LogModuleManager: Shutting down and abandoning module SessionServices (956)
+[2024.02.11-18.08.53:587][161]LogModuleManager: Shutting down and abandoning module MeshPaint (954)
+[2024.02.11-18.08.53:587][161]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (952)
+[2024.02.11-18.08.53:587][161]LogModuleManager: Shutting down and abandoning module PlacementMode (951)
+[2024.02.11-18.08.53:587][161]LogModuleManager: Shutting down and abandoning module FoliageEdit (948)
+[2024.02.11-18.08.53:587][161]LogModuleManager: Shutting down and abandoning module LandscapeEditor (946)
+[2024.02.11-18.08.53:587][161]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (944)
+[2024.02.11-18.08.53:587][161]LogModuleManager: Shutting down and abandoning module ActorPickerMode (942)
+[2024.02.11-18.08.53:587][161]LogModuleManager: Shutting down and abandoning module ViewportSnapping (940)
+[2024.02.11-18.08.53:587][161]LogModuleManager: Shutting down and abandoning module EditorWidgets (938)
+[2024.02.11-18.08.53:587][161]LogModuleManager: Shutting down and abandoning module ViewportInteraction (936)
+[2024.02.11-18.08.53:587][161]LogModuleManager: Shutting down and abandoning module ClothPainter (934)
+[2024.02.11-18.08.53:587][161]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (933)
+[2024.02.11-18.08.53:587][161]LogModuleManager: Shutting down and abandoning module WidgetRegistration (930)
+[2024.02.11-18.08.53:587][161]LogModuleManager: Shutting down and abandoning module LogVisualizer (928)
+[2024.02.11-18.08.53:587][161]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (926)
+[2024.02.11-18.08.53:587][161]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (924)
+[2024.02.11-18.08.53:587][161]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (923)
+[2024.02.11-18.08.53:587][161]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (921)
+[2024.02.11-18.08.53:806][161]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (918)
+[2024.02.11-18.08.53:806][161]LogModuleManager: Shutting down and abandoning module MacPlatformEditor (916)
+[2024.02.11-18.08.53:806][161]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (914)
+[2024.02.11-18.08.53:806][161]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (912)
+[2024.02.11-18.08.53:806][161]LogModuleManager: Shutting down and abandoning module RenderResourceViewer (910)
+[2024.02.11-18.08.53:806][161]LogModuleManager: Shutting down and abandoning module GameplayDebuggerEditor (908)
+[2024.02.11-18.08.53:806][161]LogModuleManager: Shutting down and abandoning module AnimationSettings (906)
+[2024.02.11-18.08.53:806][161]LogModuleManager: Shutting down and abandoning module VirtualizationEditor (904)
+[2024.02.11-18.08.53:806][161]LogModuleManager: Shutting down and abandoning module CSVtoSVG (902)
+[2024.02.11-18.08.53:806][161]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (900)
+[2024.02.11-18.08.53:806][161]LogModuleManager: Shutting down and abandoning module EditorConfig (898)
+[2024.02.11-18.08.53:806][161]LogModuleManager: Shutting down and abandoning module EditorFramework (896)
+[2024.02.11-18.08.53:806][161]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (894)
+[2024.02.11-18.08.53:806][161]LogModuleManager: Shutting down and abandoning module TraceInsights (892)
+[2024.02.11-18.08.53:806][161]MemoryProfiler: Shutdown
+[2024.02.11-18.08.53:806][161]NetworkingProfiler: Shutdown
+[2024.02.11-18.08.53:806][161]LoadingProfiler: Shutdown
+[2024.02.11-18.08.53:806][161]TimingProfiler: Shutdown
+[2024.02.11-18.08.53:807][161]LogModuleManager: Shutting down and abandoning module TraceServices (891)
+[2024.02.11-18.08.53:807][161]LogModuleManager: Shutting down and abandoning module TraceAnalysis (890)
+[2024.02.11-18.08.53:807][161]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (886)
+[2024.02.11-18.08.53:807][161]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (885)
+[2024.02.11-18.08.53:807][161]LogModuleManager: Shutting down and abandoning module InputBindingEditor (882)
+[2024.02.11-18.08.53:807][161]LogModuleManager: Shutting down and abandoning module MergeActors (880)
+[2024.02.11-18.08.53:807][161]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (878)
+[2024.02.11-18.08.53:807][161]LogModuleManager: Shutting down and abandoning module LocalizationService (877)
+[2024.02.11-18.08.53:807][161]LogModuleManager: Shutting down and abandoning module HardwareTargeting (874)
+[2024.02.11-18.08.53:807][161]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (872)
+[2024.02.11-18.08.53:807][161]LogModuleManager: Shutting down and abandoning module UndoHistory (870)
+[2024.02.11-18.08.53:807][161]LogModuleManager: Shutting down and abandoning module XmlParser (868)
+[2024.02.11-18.08.53:807][161]LogModuleManager: Shutting down and abandoning module Blutility (866)
+[2024.02.11-18.08.53:807][161]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (864)
+[2024.02.11-18.08.53:807][161]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (863)
+[2024.02.11-18.08.53:807][161]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (860)
+[2024.02.11-18.08.53:807][161]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (859)
+[2024.02.11-18.08.53:807][161]LogModuleManager: Shutting down and abandoning module SettingsEditor (856)
+[2024.02.11-18.08.53:807][161]LogModuleManager: Shutting down and abandoning module ProjectLauncher (854)
+[2024.02.11-18.08.53:807][161]LogModuleManager: Shutting down and abandoning module SessionFrontend (852)
+[2024.02.11-18.08.53:807][161]LogModuleManager: Shutting down and abandoning module ProfilerClient (850)
+[2024.02.11-18.08.53:807][161]LogModuleManager: Shutting down and abandoning module DeviceManager (848)
+[2024.02.11-18.08.53:807][161]LogModuleManager: Shutting down and abandoning module AutomationController (846)
+[2024.02.11-18.08.53:807][161]LogModuleManager: Shutting down and abandoning module AutomationWindow (844)
+[2024.02.11-18.08.53:807][161]LogModuleManager: Shutting down and abandoning module Layers (842)
+[2024.02.11-18.08.53:807][161]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (840)
+[2024.02.11-18.08.53:807][161]LogModuleManager: Shutting down and abandoning module DetailCustomizations (838)
+[2024.02.11-18.08.53:807][161]LogModuleManager: Shutting down and abandoning module PackagesDialog (836)
+[2024.02.11-18.08.53:807][161]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (834)
+[2024.02.11-18.08.53:807][161]LogModuleManager: Shutting down and abandoning module Persona (832)
+[2024.02.11-18.08.53:807][161]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (831)
+[2024.02.11-18.08.53:807][161]LogModuleManager: Shutting down and abandoning module Kismet (828)
+[2024.02.11-18.08.53:814][161]LogModuleManager: Shutting down and abandoning module KismetWidgets (827)
+[2024.02.11-18.08.53:814][161]LogModuleManager: Shutting down and abandoning module GraphEditor (824)
+[2024.02.11-18.08.53:814][161]LogModuleManager: Shutting down and abandoning module StructViewer (822)
+[2024.02.11-18.08.53:814][161]LogModuleManager: Shutting down and abandoning module ClassViewer (820)
+[2024.02.11-18.08.53:814][161]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (818)
+[2024.02.11-18.08.53:814][161]LogModuleManager: Shutting down and abandoning module SourceControlWindowExtender (816)
+[2024.02.11-18.08.53:814][161]LogModuleManager: Shutting down and abandoning module SourceControlWindows (814)
+[2024.02.11-18.08.53:814][161]LogModuleManager: Shutting down and abandoning module OutputLog (812)
+[2024.02.11-18.08.53:815][161]LogModuleManager: Shutting down and abandoning module Documentation (810)
+[2024.02.11-18.08.53:815][161]LogModuleManager: Shutting down and abandoning module SparseVolumeTexture (808)
+[2024.02.11-18.08.53:815][161]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (806)
+[2024.02.11-18.08.53:815][161]LogModuleManager: Shutting down and abandoning module MovieScene (804)
+[2024.02.11-18.08.53:815][161]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (802)
+[2024.02.11-18.08.53:815][161]LogModuleManager: Shutting down and abandoning module BinkAudioDecoder (800)
+[2024.02.11-18.08.53:815][161]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (798)
+[2024.02.11-18.08.53:815][161]LogModuleManager: Shutting down and abandoning module AudioMixer (797)
+[2024.02.11-18.08.53:815][161]LogModuleManager: Shutting down and abandoning module AudioMixerCore (796)
+[2024.02.11-18.08.53:815][161]LogModuleManager: Shutting down and abandoning module LauncherPlatform (792)
+[2024.02.11-18.08.53:815][161]LogModuleManager: Shutting down and abandoning module AnalyticsET (790)
+[2024.02.11-18.08.53:815][161]LogModuleManager: Shutting down and abandoning module PortalServices (788)
+[2024.02.11-18.08.53:815][161]LogModuleManager: Shutting down and abandoning module PortalRpc (786)
+[2024.02.11-18.08.53:815][161]LogModuleManager: Shutting down and abandoning module MessagingRpc (784)
+[2024.02.11-18.08.53:815][161]LogModuleManager: Shutting down and abandoning module AIModule (782)
+[2024.02.11-18.08.53:815][161]LogModuleManager: Shutting down and abandoning module GameplayDebugger (781)
+[2024.02.11-18.08.53:815][161]LogModuleManager: Shutting down and abandoning module AITestSuite (779)
+[2024.02.11-18.08.53:815][161]LogModuleManager: Shutting down and abandoning module NavigationSystem (777)
+[2024.02.11-18.08.53:815][161]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (774)
+[2024.02.11-18.08.53:815][161]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (772)
+[2024.02.11-18.08.53:815][161]LogModuleManager: Shutting down and abandoning module TypedElementFramework (770)
+[2024.02.11-18.08.53:815][161]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (768)
+[2024.02.11-18.08.53:824][161]LogModuleManager: Shutting down and abandoning module ProfilerService (766)
+[2024.02.11-18.08.53:987][161]LogModuleManager: Shutting down and abandoning module ProfileVisualizer (764)
+[2024.02.11-18.08.53:987][161]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (762)
+[2024.02.11-18.08.53:987][161]LogModuleManager: Shutting down and abandoning module CacheTrackRecorder (760)
+[2024.02.11-18.08.53:987][161]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (758)
+[2024.02.11-18.08.53:987][161]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (756)
+[2024.02.11-18.08.53:987][161]LogModuleManager: Shutting down and abandoning module TakesCore (754)
+[2024.02.11-18.08.53:987][161]LogModuleManager: Shutting down and abandoning module MegascansPlugin (752)
+[2024.02.11-18.08.53:987][161]LogModuleManager: Shutting down and abandoning module Bridge (750)
+[2024.02.11-18.08.53:987][161]LogModuleManager: Shutting down and abandoning module PortableObjectFileDataSource (748)
+[2024.02.11-18.08.53:987][161]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (746)
+[2024.02.11-18.08.53:987][161]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (744)
+[2024.02.11-18.08.53:987][161]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (742)
+[2024.02.11-18.08.53:987][161]LogModuleManager: Shutting down and abandoning module CollectionManager (741)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module ObjectMixerEditor (738)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module LightMixer (736)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module SynthesisEditor (734)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module ResonanceAudio (732)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (730)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (728)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (726)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (724)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module ModelingOperators (722)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (720)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module ModelingComponents (718)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module GeometryFramework (717)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (714)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module MeshModelingTools (712)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module InputDebuggingEditor (710)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module InputDebugging (708)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module GooglePAD (706)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module DynamicMesh (704)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (702)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (700)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (698)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (696)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module AudioCapture (694)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module AudioCaptureWasapi (693)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module AssetTags (690)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (688)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module AppleImageUtils (686)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module AndroidPermission (684)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (682)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (680)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module StructUtilsTestSuite (676)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module StructUtilsNodes (674)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module StructUtilsEditor (672)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module StructUtilsEngine (670)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module ToolPresetEditor (668)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module ToolPresetAsset (666)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (664)
+[2024.02.11-18.08.53:988][161]LogOpenImageDenoise: OIDN shutting down
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module SkeletalMeshModifiers (662)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (660)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (658)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (656)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (654)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module MeshLODToolset (652)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module LocalizableMessageBlueprint (650)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module LocalizableMessage (648)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module GeometryCollectionNodes (646)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (644)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module GeometryCollectionEngine (643)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (641)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (638)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (636)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (634)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (632)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module DataflowNodes (630)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module DataflowEnginePlugin (628)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module DataflowEditor (626)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module ChaosUserDataPT (624)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (622)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module ChaosNiagara (620)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module FractureEditor (618)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (616)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module BackChannel (614)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (612)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module AutomationUtils (610)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module TakeSequencer (608)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module TakeMovieScene (606)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (604)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (602)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module Paper2DEditor (600)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module MediaPlateEditor (598)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module MediaPlate (596)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module MediaCompositing (594)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module ImgMedia (592)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (590)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module InterchangeCommonParser (588)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (586)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module InterchangeExport (584)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module InterchangeMessages (582)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module GLTFCore (580)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module InterchangeEditorUtilities (578)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (576)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module InterchangeEditor (574)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module AlembicImporter (572)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module AlembicLibrary (571)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module GeometryCache (570)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (569)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (564)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module UVEditorToolsEditorOnly (562)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module UVEditorTools (560)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module UVEditor (558)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (556)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (554)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module PluginBrowser (552)
+[2024.02.11-18.08.53:988][161]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (550)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (548)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (546)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (544)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module EditorDebugTools (542)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module CurveEditorTools (540)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (538)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module CryptoKeys (536)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module ChangelistReview (534)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module BlueprintHeaderView (532)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module InterchangeTestEditor (530)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module InterchangeTests (528)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module TemplateSequence (526)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (524)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module SequencerScripting (522)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module VariantManager (520)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (518)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (516)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (514)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (512)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (510)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module UObjectPlugin (508)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (506)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module PluginUtils (504)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (502)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module N10XSourceCodeAccess (500)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module GitSourceControl (498)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module DumpGPUServices (496)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (494)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (492)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module ControlRigSpline (490)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (488)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (486)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module ACLPluginEditor (484)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (482)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module EditorTraceUtilities (480)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module TraceUtilities (478)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (476)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (474)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module InputEditor (472)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module Synthesis (470)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module SignificanceManager (468)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module SoundFields (466)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (464)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module RigVMDeveloper (462)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module RigVM (460)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (458)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module MsQuicRuntime (456)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module MetasoundEditor (454)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module AudioWidgets (453)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (452)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (448)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module MetasoundEngine (446)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module WaveTable (445)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (443)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (440)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (438)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (436)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (434)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (432)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (430)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module CableComponent (428)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (426)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (425)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (422)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module StructUtils (420)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (418)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module PBIK (416)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module FullBodyIK (414)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module ChaosCachingEditor (412)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module TakeRecorder (411)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module ChaosCaching (408)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module Paper2D (406)
+[2024.02.11-18.08.53:989][161]LogModuleManager: Shutting down and abandoning module UdpMessaging (404)
+[2024.02.11-18.08.54:090][161]LogModuleManager: Shutting down and abandoning module TcpMessaging (402)
+[2024.02.11-18.08.54:191][161]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (400)
+[2024.02.11-18.08.54:191][161]LogModuleManager: Shutting down and abandoning module InterchangePipelines (398)
+[2024.02.11-18.08.54:191][161]LogModuleManager: Shutting down and abandoning module InterchangeImport (396)
+[2024.02.11-18.08.54:191][161]LogModuleManager: Shutting down and abandoning module InterchangeFactoryNodes (394)
+[2024.02.11-18.08.54:191][161]LogModuleManager: Shutting down and abandoning module InterchangeNodes (392)
+[2024.02.11-18.08.54:191][161]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (390)
+[2024.02.11-18.08.54:191][161]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (388)
+[2024.02.11-18.08.54:191][161]LogModuleManager: Shutting down and abandoning module FacialAnimation (386)
+[2024.02.11-18.08.54:191][161]LogModuleManager: Shutting down and abandoning module DataValidation (384)
+[2024.02.11-18.08.54:191][161]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (382)
+[2024.02.11-18.08.54:191][161]LogModuleManager: Shutting down and abandoning module LevelEditor (381)
+[2024.02.11-18.08.54:193][161]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (380)
+[2024.02.11-18.08.54:193][161]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (378)
+[2024.02.11-18.08.54:193][161]LogModuleManager: Shutting down and abandoning module MainFrame (376)
+[2024.02.11-18.08.54:193][161]LogModuleManager: Shutting down and abandoning module HotReload (375)
+[2024.02.11-18.08.54:193][161]LogModuleManager: Shutting down and abandoning module TreeMap (371)
+[2024.02.11-18.08.54:193][161]LogModuleManager: Shutting down and abandoning module ActorSequence (368)
+[2024.02.11-18.08.54:193][161]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (366)
+[2024.02.11-18.08.54:193][161]LogModuleManager: Shutting down and abandoning module Niagara (364)
+[2024.02.11-18.08.54:193][161]LogModuleManager: Shutting down and abandoning module SignalProcessing (363)
+[2024.02.11-18.08.54:193][161]LogModuleManager: Shutting down and abandoning module NiagaraEditor (361)
+[2024.02.11-18.08.54:194][161]LogModuleManager: Shutting down and abandoning module ContentBrowser (360)
+[2024.02.11-18.08.54:194][161]LogModuleManager: Shutting down and abandoning module ToolMenus (359)
+[2024.02.11-18.08.54:194][161]LogModuleManager: Shutting down and abandoning module ContentBrowserData (357)
+[2024.02.11-18.08.54:194][161]LogModuleManager: Shutting down and abandoning module NiagaraCore (352)
+[2024.02.11-18.08.54:194][161]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (350)
+[2024.02.11-18.08.54:194][161]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (348)
+[2024.02.11-18.08.54:194][161]LogModuleManager: Shutting down and abandoning module AnimationSharing (346)
+[2024.02.11-18.08.54:194][161]LogModuleManager: Shutting down and abandoning module GameplayCameras (344)
+[2024.02.11-18.08.54:194][161]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (342)
+[2024.02.11-18.08.54:194][161]LogModuleManager: Shutting down and abandoning module IKRig (340)
+[2024.02.11-18.08.54:194][161]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (338)
+[2024.02.11-18.08.54:194][161]LogModuleManager: Shutting down and abandoning module ControlRig (336)
+[2024.02.11-18.08.54:194][161]LogModuleManager: Shutting down and abandoning module Constraints (335)
+[2024.02.11-18.08.54:194][161]LogModuleManager: Shutting down and abandoning module LevelSequence (333)
+[2024.02.11-18.08.54:194][161]LogModuleManager: Shutting down and abandoning module AnimationData (330)
+[2024.02.11-18.08.54:194][161]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (328)
+[2024.02.11-18.08.54:194][161]LogModuleManager: Shutting down and abandoning module InputBlueprintNodes (326)
+[2024.02.11-18.08.54:194][161]LogModuleManager: Shutting down and abandoning module BlueprintGraph (325)
+[2024.02.11-18.08.54:194][161]LogModuleManager: Shutting down and abandoning module EnhancedInput (322)
+[2024.02.11-18.08.54:194][161]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (320)
+[2024.02.11-18.08.54:195][161]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (318)
+[2024.02.11-18.08.54:195][161]LogModuleManager: Shutting down and abandoning module AndroidFileServer (316)
+[2024.02.11-18.08.54:195][161]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (314)
+[2024.02.11-18.08.54:195][161]LogModuleManager: Shutting down and abandoning module PacketHandler (312)
+[2024.02.11-18.08.54:195][161]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (310)
+[2024.02.11-18.08.54:195][161]LogModuleManager: Shutting down and abandoning module AnimGraph (308)
+[2024.02.11-18.08.54:195][161]LogModuleManager: Shutting down and abandoning module TimeManagement (306)
+[2024.02.11-18.08.54:195][161]LogModuleManager: Shutting down and abandoning module AnimationDataController (304)
+[2024.02.11-18.08.54:195][161]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (302)
+[2024.02.11-18.08.54:195][161]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (300)
+[2024.02.11-18.08.54:195][161]LogModuleManager: Shutting down and abandoning module MediaAssets (298)
+[2024.02.11-18.08.54:195][161]LogModuleManager: Shutting down and abandoning module Overlay (296)
+[2024.02.11-18.08.54:195][161]LogModuleManager: Shutting down and abandoning module OverlayEditor (295)
+[2024.02.11-18.08.54:195][161]LogModuleManager: Shutting down and abandoning module VREditor (292)
+[2024.02.11-18.08.54:195][161]LogModuleManager: Shutting down and abandoning module StringTableEditor (290)
+[2024.02.11-18.08.54:195][161]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (288)
+[2024.02.11-18.08.54:195][161]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (286)
+[2024.02.11-18.08.54:195][161]LogModuleManager: Shutting down and abandoning module FunctionalTesting (284)
+[2024.02.11-18.08.54:195][161]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (282)
+[2024.02.11-18.08.54:195][161]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (281)
+[2024.02.11-18.08.54:195][161]LogModuleManager: Shutting down and abandoning module ScriptableEditorWidgets (278)
+[2024.02.11-18.08.54:195][161]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2024.02.11-18.08.54:195][161]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2024.02.11-18.08.54:195][161]LogModuleManager: Shutting down and abandoning module EditorStyle (270)
+[2024.02.11-18.08.54:195][161]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2024.02.11-18.08.54:195][161]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2024.02.11-18.08.54:195][161]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2024.02.11-18.08.54:197][161]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (262)
+[2024.02.11-18.08.54:197][161]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (260)
+[2024.02.11-18.08.54:197][161]LogModuleManager: Shutting down and abandoning module UnrealEd (258)
+[2024.02.11-18.08.54:197][161]LogModuleManager: Shutting down and abandoning module MRMesh (256)
+[2024.02.11-18.08.54:197][161]LogModuleManager: Shutting down and abandoning module Messaging (254)
+[2024.02.11-18.08.54:197][161]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (252)
+[2024.02.11-18.08.54:197][161]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (250)
+[2024.02.11-18.08.54:197][161]LogModuleManager: Shutting down and abandoning module LiveCoding (248)
+[2024.02.11-18.08.54:204][161]LogModuleManager: Shutting down and abandoning module Networking (246)
+[2024.02.11-18.08.54:204][161]LogModuleManager: Shutting down and abandoning module Core (244)
+[2024.02.11-18.08.54:204][161]LogModuleManager: Shutting down and abandoning module AssetDefinition (242)
+[2024.02.11-18.08.54:204][161]LogModuleManager: Shutting down and abandoning module MovieSceneTools (240)
+[2024.02.11-18.08.54:204][161]LogModuleManager: Shutting down and abandoning module CurveEditor (239)
+[2024.02.11-18.08.54:204][161]LogModuleManager: Shutting down and abandoning module Sequencer (237)
+[2024.02.11-18.08.54:204][161]LogModuleManager: Shutting down and abandoning module KismetCompiler (234)
+[2024.02.11-18.08.54:204][161]LogModuleManager: Shutting down and abandoning module MeshBuilder (232)
+[2024.02.11-18.08.54:204][161]LogModuleManager: Shutting down and abandoning module NaniteBuilder (230)
+[2024.02.11-18.08.54:204][161]LogModuleManager: Shutting down and abandoning module MeshUtilities (228)
+[2024.02.11-18.08.54:204][161]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (227)
+[2024.02.11-18.08.54:204][161]LogModuleManager: Shutting down and abandoning module StaticMeshDescription (226)
+[2024.02.11-18.08.54:204][161]LogModuleManager: Shutting down and abandoning module GeometryProcessingInterfaces (225)
+[2024.02.11-18.08.54:204][161]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (222)
+[2024.02.11-18.08.54:204][161]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (221)
+[2024.02.11-18.08.54:204][161]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (219)
+[2024.02.11-18.08.54:204][161]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (217)
+[2024.02.11-18.08.54:204][161]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (215)
+[2024.02.11-18.08.54:204][161]LogModuleManager: Shutting down and abandoning module MaterialBaking (211)
+[2024.02.11-18.08.54:204][161]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (208)
+[2024.02.11-18.08.54:215][161]LogModuleManager: Shutting down and abandoning module TelemetryUtils (205)
+[2024.02.11-18.08.54:215][161]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (202)
+[2024.02.11-18.08.54:215][161]LogModuleManager: Shutting down and abandoning module ShaderPreprocessor (200)
+[2024.02.11-18.08.54:215][161]LogModuleManager: Shutting down and abandoning module DerivedDataCache (198)
+[2024.02.11-18.08.54:218][161]LogModuleManager: Shutting down and abandoning module TargetPlatform (196)
+[2024.02.11-18.08.54:218][161]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (195)
+[2024.02.11-18.08.54:218][161]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (193)
+[2024.02.11-18.08.54:218][161]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (191)
+[2024.02.11-18.08.54:218][161]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (189)
+[2024.02.11-18.08.54:218][161]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (187)
+[2024.02.11-18.08.54:218][161]LogModuleManager: Shutting down and abandoning module AudioFormatBINK (185)
+[2024.02.11-18.08.54:218][161]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (183)
+[2024.02.11-18.08.54:218][161]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (181)
+[2024.02.11-18.08.54:218][161]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (179)
+[2024.02.11-18.08.54:218][161]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (177)
+[2024.02.11-18.08.54:218][161]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (175)
+[2024.02.11-18.08.54:218][161]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (173)
+[2024.02.11-18.08.54:218][161]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (171)
+[2024.02.11-18.08.54:218][161]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (169)
+[2024.02.11-18.08.54:218][161]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (167)
+[2024.02.11-18.08.54:218][161]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (165)
+[2024.02.11-18.08.54:218][161]LogModuleManager: Shutting down and abandoning module TextureFormat (163)
+[2024.02.11-18.08.54:218][161]LogModuleManager: Shutting down and abandoning module ImageWrapper (162)
+[2024.02.11-18.08.54:218][161]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (160)
+[2024.02.11-18.08.54:219][161]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (158)
+[2024.02.11-18.08.54:219][161]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (156)
+[2024.02.11-18.08.54:219][161]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (154)
+[2024.02.11-18.08.54:219][161]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (152)
+[2024.02.11-18.08.54:219][161]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (150)
+[2024.02.11-18.08.54:219][161]LogModuleManager: Shutting down and abandoning module TurnkeySupport (147)
+[2024.02.11-18.08.54:219][161]LogModuleManager: Shutting down and abandoning module InputCore (144)
+[2024.02.11-18.08.54:219][161]LogModuleManager: Shutting down and abandoning module Settings (142)
+[2024.02.11-18.08.54:219][161]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (140)
+[2024.02.11-18.08.54:219][161]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (138)
+[2024.02.11-18.08.54:219][161]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (137)
+[2024.02.11-18.08.54:219][161]LogModuleManager: Shutting down and abandoning module Chaos (134)
+[2024.02.11-18.08.54:219][161]LogModuleManager: Shutting down and abandoning module GeometryCore (133)
+[2024.02.11-18.08.54:219][161]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (130)
+[2024.02.11-18.08.54:219][161]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (129)
+[2024.02.11-18.08.54:219][161]LogModuleManager: Shutting down and abandoning module AVEncoder (128)
+[2024.02.11-18.08.54:219][161]LogModuleManager: Shutting down and abandoning module D3D12RHI (124)
+[2024.02.11-18.08.54:219][161]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (122)
+[2024.02.11-18.08.54:219][161]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (120)
+[2024.02.11-18.08.54:219][161]LogModuleManager: Shutting down and abandoning module ChunkDownloader (118)
+[2024.02.11-18.08.54:219][161]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (116)
+[2024.02.11-18.08.54:219][161]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (114)
+[2024.02.11-18.08.54:219][161]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (112)
+[2024.02.11-18.08.54:221][161]LogModuleManager: Shutting down and abandoning module XMPP (107)
+[2024.02.11-18.08.54:221][161]LogModuleManager: Shutting down and abandoning module WebSockets (106)
+[2024.02.11-18.08.54:226][161]LogModuleManager: Shutting down and abandoning module HTTP (103)
+[2024.02.11-18.08.54:226][161]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2024.02.11-18.08.54:226][161]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCCF56759-4251-A925-3AFC-73A46C06F86C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=97ce5605412b610d92592584f0c10655%7C80dee052d8f942e3a692190a06452bb6%7Ccd10d376-df81-482c-8b37-4c7940b44f80&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2024.02.11-18.08.54:260][161]LogModuleManager: Shutting down and abandoning module SSL (102)
+[2024.02.11-18.08.54:260][161]LogModuleManager: Shutting down and abandoning module OnlineServicesCommonEngineUtils (98)
+[2024.02.11-18.08.54:260][161]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (96)
+[2024.02.11-18.08.54:260][161]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (94)
+[2024.02.11-18.08.54:260][161]LogModuleManager: Shutting down and abandoning module ChaosCloth (92)
+[2024.02.11-18.08.54:260][161]LogModuleManager: Shutting down and abandoning module WmfMedia (90)
+[2024.02.11-18.08.54:272][161]LogModuleManager: Shutting down and abandoning module Media (89)
+[2024.02.11-18.08.54:275][161]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (86)
+[2024.02.11-18.08.54:275][161]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (84)
+[2024.02.11-18.08.54:275][161]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (82)
+[2024.02.11-18.08.54:275][161]LogModuleManager: Shutting down and abandoning module NiagaraShader (80)
+[2024.02.11-18.08.54:275][161]LogModuleManager: Shutting down and abandoning module VariantManagerContent (78)
+[2024.02.11-18.08.54:275][161]LogModuleManager: Shutting down and abandoning module GLTFExporter (76)
+[2024.02.11-18.08.54:275][161]LogModuleManager: Shutting down and abandoning module DatasmithContent (74)
+[2024.02.11-18.08.54:275][161]LogModuleManager: Shutting down and abandoning module RenderDocPlugin (72)
+[2024.02.11-18.08.54:275][161]RenderDocPlugin: plugin has been unloaded.
+[2024.02.11-18.08.54:275][161]LogModuleManager: Shutting down and abandoning module PixWinPlugin (70)
+[2024.02.11-18.08.54:275][161]LogModuleManager: Shutting down and abandoning module ACLPlugin (68)
+[2024.02.11-18.08.54:275][161]LogModuleManager: Shutting down and abandoning module AISupportModule (66)
+[2024.02.11-18.08.54:275][161]LogModuleManager: Shutting down and abandoning module DesktopPlatform (64)
+[2024.02.11-18.08.54:275][161]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (62)
+[2024.02.11-18.08.54:275][161]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (60)
+[2024.02.11-18.08.54:275][161]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (58)
+[2024.02.11-18.08.54:275][161]LogModuleManager: Shutting down and abandoning module PlatformCrypto (56)
+[2024.02.11-18.08.54:275][161]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (54)
+[2024.02.11-18.08.54:275][161]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (52)
+[2024.02.11-18.08.54:275][161]LogModuleManager: Shutting down and abandoning module SourceControl (51)
+[2024.02.11-18.08.54:275][161]LogModuleManager: Shutting down and abandoning module XGEController (48)
+[2024.02.11-18.08.54:275][161]LogXGEController: Cleaning working directory: C:/Users/rocco/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2024.02.11-18.08.54:275][161]LogModuleManager: Shutting down and abandoning module FastBuildController (46)
+[2024.02.11-18.08.54:275][161]LogModuleManager: Shutting down and abandoning module IoStoreOnDemand (44)
+[2024.02.11-18.08.54:275][161]LogModuleManager: Shutting down and abandoning module AnimationModifiers (42)
+[2024.02.11-18.08.54:275][161]LogModuleManager: Shutting down and abandoning module AudioEditor (40)
+[2024.02.11-18.08.54:276][161]LogModuleManager: Shutting down and abandoning module PropertyEditor (39)
+[2024.02.11-18.08.54:276][161]LogModuleManager: Shutting down and abandoning module Virtualization (36)
+[2024.02.11-18.08.54:276][161]LogModuleManager: Shutting down and abandoning module MessageLog (35)
+[2024.02.11-18.08.54:276][161]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2024.02.11-18.08.54:276][161]LogModuleManager: Shutting down and abandoning module OpenColorIOWrapper (31)
+[2024.02.11-18.08.54:276][161]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2024.02.11-18.08.54:276][161]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2024.02.11-18.08.54:276][161]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2024.02.11-18.08.54:276][161]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2024.02.11-18.08.54:276][161]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2024.02.11-18.08.54:276][161]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2024.02.11-18.08.54:276][161]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2024.02.11-18.08.54:276][161]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2024.02.11-18.08.54:276][161]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2024.02.11-18.08.54:276][161]LogPakFile: Destroying PakPlatformFile
+[2024.02.11-18.08.54:276][161]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2024.02.11-18.08.54:276][161]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2024.02.11-18.08.54:276][161]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2024.02.11-18.08.54:276][161]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2024.02.11-18.08.54:276][161]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2024.02.11-18.08.54:518][161]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.02.11-18.08.54:539][161]LogExit: Exiting.
+[2024.02.11-18.08.54:659][161]Log file closed, 02/11/24 19:08:54
